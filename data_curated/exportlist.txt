@@ -1,0 +1,2834 @@
+@article{RN2181,
+   author = {Anto, J. M. and Bousquet, J. and Akdis, M. and Auffray, C. and Keil, T. and Momas, I. and Postma, D. S. and Valenta, R. and Wickman, M. and Cambon-Thomsen, A. and Haahtela, T. and Lambrecht, B. N. and Lodrup Carlsen, K. C. and Koppelman, G. H. and Sunyer, J. and Zuberbier, T. and Annesi-Maesano, I. and Arno, A. and Bindslev-Jensen, C. and De Carlo, G. and Forastiere, F. and Heinrich, J. and Kowalski, M. L. and Maier, D. and Melen, E. and Smit, H. A. and Standl, M. and Wright, J. and Asarnoj, A. and Benet, M. and Ballardini, N. and Garcia-Aymerich, J. and Gehring, U. and Guerra, S. and Hohmann, C. and Kull, I. and Lupinek, C. and Pinart, M. and Skrindo, I. and Westman, M. and Smagghe, D. and Akdis, C. and Andersson, N. and Bachert, C. and Ballereau, S. and Ballester, F. and Basagana, X. and Bedbrook, A. and Bergstrom, A. and von Berg, A. and Brunekreef, B. and Burte, E. and Carlsen, K. H. and Chatzi, L. and Coquet, J. M. and Curin, M. and Demoly, P. and Eller, E. and Fantini, M. P. and von Hertzen, L. and Hovland, V. and Jacquemin, B. and Just, J. and Keller, T. and Kiss, R. and Kogevinas, M. and Koletzko, S. and Lau, S. and Lehmann, I. and Lemonnier, N. and Makela, M. and Mestres, J. and Mowinckel, P. and Nadif, R. and Nawijn, M. C. and Pellet, J. and Pin, I. and Porta, D. and Ranciere, F. and Rial-Sebbag, E. and Saeys, Y. and Schuijs, M. J. and Siroux, V. and Tischer, C. G. and Torrent, M. and Varraso, R. and Wenzel, K. and Xu, C. J.},
+   title = {Mechanisms of the Development of Allergy (MeDALL): Introducing novel concepts in allergy phenotypes},
+   journal = {J Allergy Clin Immunol},
+   volume = {139},
+   number = {2},
+   pages = {388-399},
+   note = {Anto, Josep M
+Bousquet, Jean
+Akdis, Mubeccel
+Auffray, Charles
+Keil, Thomas
+Momas, Isabelle
+Postma, Dirkje S
+Valenta, Rudolf
+Wickman, Magnus
+Cambon-Thomsen, Anne
+Haahtela, Tari
+Lambrecht, Bart N
+Lodrup Carlsen, Karin C
+Koppelman, Gerard H
+Sunyer, Jordi
+Zuberbier, Torsten
+Annesi-Maesano, Isabelle
+Arno, Albert
+Bindslev-Jensen, Carsten
+De Carlo, Giuseppe
+Forastiere, Francesco
+Heinrich, Joachim
+Kowalski, Marek L
+Maier, Dieter
+Melen, Erik
+Smit, Henriette A
+Standl, Marie
+Wright, John
+Asarnoj, Anna
+Benet, Marta
+Ballardini, Natalia
+Garcia-Aymerich, Judith
+Gehring, Ulrike
+Guerra, Stefano
+Hohmann, Cynthia
+Kull, Inger
+Lupinek, Christian
+Pinart, Mariona
+Skrindo, Ingebjorg
+Westman, Marit
+Smagghe, Delphine
+Akdis, Cezmi
+Andersson, Niklas
+Bachert, Claus
+Ballereau, Stephane
+Ballester, Ferran
+Basagana, Xavier
+Bedbrook, Anna
+Bergstrom, Anna
+von Berg, Andrea
+Brunekreef, Bert
+Burte, Emilie
+Carlsen, Kai-Hakon
+Chatzi, Leda
+Coquet, Jonathan M
+Curin, Mirela
+Demoly, Pascal
+Eller, Esben
+Fantini, Maria Pia
+von Hertzen, Leena
+Hovland, Vergard
+Jacquemin, Benedicte
+Just, Jocelyne
+Keller, Theresa
+Kiss, Renata
+Kogevinas, Manolis
+Koletzko, Sibylle
+Lau, Susanne
+Lehmann, Irina
+Lemonnier, Nicolas
+Makela, Mika
+Mestres, Jordi
+Mowinckel, Peter
+Nadif, Rachel
+Nawijn, Martijn C
+Pellet, Johan
+Pin, Isabelle
+Porta, Daniela
+Ranciere, Fanny
+Rial-Sebbag, Emmanuelle
+Saeys, Yvan
+Schuijs, Martijn J
+Siroux, Valerie
+Tischer, Christina G
+Torrent, Mathies
+Varraso, Raphaelle
+Wenzel, Kalus
+Xu, Cheng-Jian
+eng
+Multicenter Study
+Review
+J Allergy Clin Immunol. 2017 Feb;139(2):388-399. doi: 10.1016/j.jaci.2016.12.940.},
+   abstract = {Asthma, rhinitis, and eczema are complex diseases with multiple genetic and environmental factors interlinked through IgE-associated and non-IgE-associated mechanisms. Mechanisms of the Development of ALLergy (MeDALL; EU FP7-CP-IP; project no: 261357; 2010-2015) studied the complex links of allergic diseases at the clinical and mechanistic levels by linking epidemiologic, clinical, and mechanistic research, including in vivo and in vitro models. MeDALL integrated 14 European birth cohorts, including 44,010 participants and 160 cohort follow-ups between pregnancy and age 20 years. Thirteen thousand children were prospectively followed after puberty by using a newly standardized MeDALL Core Questionnaire. A microarray developed for allergen molecules with increased IgE sensitivity was obtained for 3,292 children. Estimates of air pollution exposure from previous studies were available for 10,000 children. Omics data included those from historical genome-wide association studies (23,000 children) and DNA methylation (2,173), targeted multiplex biomarker (1,427), and transcriptomic (723) studies. Using classical epidemiology and machine-learning methods in 16,147 children aged 4 years and 11,080 children aged 8 years, MeDALL showed the multimorbidity of eczema, rhinitis, and asthma and estimated that only 38% of multimorbidity was attributable to IgE sensitization. MeDALL has proposed a new vision of multimorbidity independent of IgE sensitization, and has shown that monosensitization and polysensitization represent 2 distinct phenotypes. The translational component of MeDALL is shown by the identification of a novel allergic phenotype characterized by polysensitization and multimorbidity, which is associated with the frequency, persistence, and severity of allergic symptoms. The results of MeDALL will help integrate personalized, predictive, preventative, and participatory approaches in allergic diseases.},
+   keywords = {Adolescent
+Allergens/*immunology
+Animals
+Child
+Cohort Studies
+Comorbidity
+Europe/epidemiology
+Female
+Gene Expression Profiling
+Genome-Wide Association Study
+Humans
+Hypersensitivity/epidemiology/genetics/*immunology
+Immunization
+Immunoglobulin E/metabolism
+Phenotype
+Translational Medical Research
+Young Adult
+*Asthma
+*allergy
+*atopic dermatitis
+*rhinitis},
+   ISSN = {1097-6825 (Electronic)
+0091-6749 (Linking)},
+   DOI = {10.1016/j.jaci.2016.12.940},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/28183433},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN2199,
+   author = {Anvari, S. and Miller, J. and Yeh, C. Y. and Davis, C. M.},
+   title = {IgE-Mediated Food Allergy},
+   journal = {Clin Rev Allergy Immunol},
+   volume = {57},
+   number = {2},
+   pages = {244-260},
+   note = {Anvari, Sara
+Miller, Jennifer
+Yeh, Chih-Yin
+Davis, Carla M
+eng
+Review
+Clin Rev Allergy Immunol. 2019 Oct;57(2):244-260. doi: 10.1007/s12016-018-8710-3.},
+   abstract = {Food allergies are defined as adverse immune responses to food proteins that result in typical clinical symptoms involving the dermatologic, respiratory, gastrointestinal, cardiovascular, and/or neurologic systems. IgE-mediated food-allergic disease differs from non-IgE-mediated disease because the pathophysiology results from activation of the immune system, causing a T helper 2 response which results in IgE binding to Fcepsilon receptors on effector cells like mast cells and basophils. The activation of these cells causes release of histamine and other preformed mediators, and rapid symptom onset, in contrast with non-IgE-mediated food allergy which is more delayed in onset. The diagnosis of IgE-mediated food allergy requires a history of classic clinical symptoms and evidence of food-specific IgE by either skin-prick or serum-specific IgE testing. Symptoms of IgE-mediated food allergies range from mild to severe. The severity of symptoms is not predicted by the level of specific IgE or skin test wheal size, but the likelihood of symptom onset is directly related. Diagnosis is excluded when a patient can ingest the suspected food without clinical symptoms and may require an in-office oral food challenge if testing for food-specific IgE by serum or skin testing is negative or low. Anaphylaxis is the most severe form of the clinical manifestation of IgE-mediated food allergy, and injectable epinephrine is the first-line treatment. Management of food allergies requires strict avoidance measures, counseling of the family about constant vigilance, and prompt treatment of allergic reactions with emergency medications. Guidelines have changed recently to include early introduction of peanuts at 4-6 months of life. Early introduction is recommended to prevent the development of peanut allergy. Future treatments for IgE-mediated food allergy evaluated in clinical trials include epicutaneous, sublingual, and oral immunotherapy.},
+   keywords = {Adolescent
+Adult
+Allergens/immunology
+Anaphylaxis/classification/drug therapy/immunology/prevention & control
+Child
+Child, Preschool
+Diet
+Epinephrine/therapeutic use
+Female
+Food Hypersensitivity/diagnosis/drug therapy/*epidemiology/*immunology
+Glucocorticoids/therapeutic use
+Histamine Antagonists/therapeutic use
+Humans
+Immunoglobulin E/*immunology
+Immunotherapy
+Infant
+Male
+Prevalence
+Skin Tests
+Anaphylaxis
+Food allergy
+Food allergy diagnosis
+Food immunotherapy
+IgE
+Mast cell
+Pathophysiology
+Sensitization
+Tolerance
+Treatment of food allergy},
+   ISSN = {1559-0267 (Electronic)
+1080-0549 (Linking)},
+   DOI = {10.1007/s12016-018-8710-3},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/30370459},
+   url = {https://link.springer.com/content/pdf/10.1007/s12016-018-8710-3.pdf},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN2196,
+   author = {Batista, Gustavo EAPA and Prati, Ronaldo C and Monard, Maria Carolina},
+   title = {A study of the behavior of several methods for balancing machine learning training data},
+   journal = {ACM SIGKDD explorations newsletter},
+   volume = {6},
+   number = {1},
+   pages = {20-29},
+   ISSN = {1931-0145},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN2245,
+   author = {Bettencourt, A. and Carvalho, C. and Leal, B. and Bras, S. and Lopes, D. and Martins da Silva, A. and Santos, E. and Torres, T. and Almeida, I. and Farinha, F. and Barbosa, P. and Marinho, A. and Selores, M. and Correia, J. and Vasconcelos, C. and Costa, P. P. and da Silva, B. M.},
+   title = {The Protective Role of HLA-DRB1( *)13 in Autoimmune Diseases},
+   journal = {J Immunol Res},
+   volume = {2015},
+   pages = {948723},
+   note = {Bettencourt, Andreia
+Carvalho, Claudia
+Leal, Barbara
+Bras, Sandra
+Lopes, Dina
+Martins da Silva, Ana
+Santos, Ernestina
+Torres, Tiago
+Almeida, Isabel
+Farinha, Fatima
+Barbosa, Paulo
+Marinho, Antonio
+Selores, Manuela
+Correia, Joao
+Vasconcelos, Carlos
+Costa, Paulo P
+da Silva, Berta Martins
+eng
+Egypt
+J Immunol Res. 2015;2015:948723. doi: 10.1155/2015/948723. Epub 2015 Oct 29.},
+   abstract = {Autoimmune diseases (AIDs) are characterized by a multifactorial aetiology and a complex genetic background, with the MHC region playing a major role. We genotyped for HLA-DRB1 locus 1228 patients with AIDs-213 with Systemic Lupus Erythematosus (SLE), 166 with Psoriasis or Psoriatic Arthritis (Ps + PsA), 153 with Rheumatoid Arthritis (RA), 67 with Systemic Sclerosis (SSc), 536 with Multiple Sclerosis (MS), and 93 with Myasthenia Gravis (MG) and 282 unrelated controls. We confirmed previously established associations of HLA-DRB1( *)15 (OR = 2.17) and HLA-DRB1( *)03 (OR = 1.81) alleles with MS, HLA-DRB1( *)03 with SLE (OR = 2.49), HLA-DRB1( *)01 (OR = 1.79) and HLA-DRB1( *)04 (OR = 2.81) with RA, HLA-DRB1( *)07 with Ps + PsA (OR = 1.79), HLA-DRB1( *)01 (OR = 2.28) and HLA-DRB1( *)08 (OR = 3.01) with SSc, and HLA-DRB1( *)03 with MG (OR = 2.98). We further observed a consistent negative association of HLA-DRB1( *)13 allele with SLE, Ps + PsA, RA, and SSc (18.3%, 19.3%, 16.3%, and 11.9%, resp., versus 29.8% in controls). HLA-DRB1( *)13 frequency in the AIDs group was 20.0% (OR = 0.58). Although different alleles were associated with particular AIDs, the same allele, HLA-DRB1( *)13, was underrepresented in all of the six diseases analysed. This observation suggests that this allele may confer protection for AIDs, particularly for systemic and rheumatic disease. The protective effect of HLA-DRB1( *)13 could be explained by a more proficient antigen presentation by these molecules, favouring efficient clonal deletion during thymic selection.},
+   keywords = {Alleles
+Autoimmune Diseases/diagnosis/epidemiology/*genetics/*immunology
+Case-Control Studies
+Female
+Gene Frequency
+Genetic Association Studies
+*Genetic Predisposition to Disease
+HLA-DRB1 Chains/*genetics/*immunology
+Humans
+Male
+Odds Ratio},
+   ISSN = {2314-7156 (Electronic)
+2314-7156 (Linking)},
+   DOI = {10.1155/2015/948723},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/26605347},
+   url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4641944/pdf/JIR2015-948723.pdf},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN2201,
+   author = {Bousquet, J. and Anto, J. and Sunyer, J. and Nieuwenhuijsen, M. and Vrijheid, M. and Keil, T. and Me, Dall Study Group and Group, Chicos Study and Group, Enrieco Study and Group, Galen Study},
+   title = {Pooling birth cohorts in allergy and asthma: European Union-funded initiatives - a MeDALL, CHICOS, ENRIECO, and GA(2)LEN joint paper},
+   journal = {Int Arch Allergy Immunol},
+   volume = {161},
+   number = {1},
+   pages = {1-10},
+   note = {Bousquet, Jean
+Anto, Josep
+Sunyer, Jordi
+Nieuwenhuijsen, Mark
+Vrijheid, Martine
+Keil, Thomas
+(2)
+eng
+G0601361/Medical Research Council/United Kingdom
+MR/K002449/1/Medical Research Council/United Kingdom
+Research Support, Non-U.S. Gov't
+Review
+Switzerland
+Int Arch Allergy Immunol. 2013;161(1):1-10. doi: 10.1159/000343018. Epub 2012 Dec 13.},
+   abstract = {Long-term birth cohort studies are essential to understanding the life course and childhood predictors of allergy and the complex interplay between genes and the environment (including lifestyle and socioeconomic determinants). Over 100 cohorts focusing on asthma and allergy have been initiated in the world over the past 30 years. Since 2004, several research initiatives funded under the EU Framework Program for Research and Technological Development FP6-FP7 have attempted to identify, compare, and evaluate pooling data from existing European birth cohorts (GA(2)LEN: Global Allergy and European Network, FP6; ENRIECO: Environmental Health Risks in European Birth Cohorts, FP7; CHICOS: Developing a Child Cohort Research Strategy for Europe, FP7; MeDALL: Mechanisms of the Development of ALLergy, FP7). However, there is a general lack of knowledge about these initiatives and their potentials. The aim of this paper is to review current and past EU-funded projects in order to make a summary of their goals and achievements and to suggest future research needs of these European birth cohort networks.},
+   keywords = {Asthma/*epidemiology/etiology
+Cohort Studies
+Environmental Exposure
+Europe/epidemiology
+European Union
+Humans
+Hypersensitivity/*epidemiology/etiology
+Longitudinal Studies
+Multicenter Studies as Topic
+Risk Factors},
+   ISSN = {1423-0097 (Electronic)
+1018-2438 (Linking)},
+   DOI = {10.1159/000343018},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/23258290},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN2241,
+   author = {Diaz-Pena, R. and Silva, R. S. and Hosgood, H. D., 3rd and Jaime, S. and Miravitlles, M. and Olloquequi, J.},
+   title = {HLA-DRB1 Alleles are Associated With COPD in a Latin American Admixed Population},
+   journal = {Arch Bronconeumol (Engl Ed)},
+   volume = {57},
+   number = {4},
+   pages = {291-297},
+   note = {Diaz-Pena, Roberto
+Silva, Rafael S
+Hosgood, H Dean 3rd
+Jaime, Sergio
+Miravitlles, Marc
+Olloquequi, Jordi
+eng
+spa
+Research Support, Non-U.S. Gov't
+Spain
+Arch Bronconeumol (Engl Ed). 2021 Apr;57(4):291-297. doi: 10.1016/j.arbres.2020.07.022. Epub 2020 Sep 15.},
+   abstract = {INTRODUCTION: While the molecular mechanisms of COPD pathogenesis remain obscure, there is mounting evidence supporting a key role for autoimmunity. Although human leukocyte antigens (HLA) alleles have been repeatedly associated with autoimmune processes, the relation between HLA and COPD remains largely unexplored, especially in Latin American (LA) populations. Consequently, this study aimed to investigate the presence of HLA class I and II alleles in COPD patients and healthy controls in a LA population with admixed ancestry. METHODS: COPD patients (n=214) and age-matched controls (n=193) were genotyped using the Illumina Infinium Global Screening Array. The classic HLA alleles were imputed using HLA Genotype Imputation with Attribute Bagging (HIBAG) and the Hispanic reference panel. Finally, the distribution of HLA-DRB1 alleles was reexamined in 510 randomly recruited unrelated volunteers. RESULTS: CODP patients showed a higher HLA-DRB1*01:02 allele frequency (6.54%) than healthy controls (3.27%, p=0.04, OR=2.07). HLA-DRB1*01:02 was also significantly associated with FEV1 (p=0.04) and oxygen saturation (p=0.02), and the FEV1/FVC ratio was higher in HLA-DRB1*15:01-positive patients (p=9x10(-3)). CONCLUSION: We report an association among HLA-DRB1 alleles, COPD risk and pulmonary function parameters for the first time in Latin Americans. Since HLA-DRB1 genetic variability relates to the individual autoimmune response, these results support a role of autoimmunity in the pathogenesis of COPD.},
+   keywords = {Alleles
+HLA-DRB1 Chains/genetics
+*Hispanic or Latino/genetics
+Humans
+Latin America
+*Pulmonary Disease, Chronic Obstructive/genetics
+*Admixture
+*Autoimmunity
+*Autoinmunidad
+*Genetics
+*Genetica
+*hla
+*Mixta
+*snp},
+   ISSN = {2173-5751 (Electronic)
+2173-5751 (Linking)},
+   DOI = {10.1016/j.arbres.2020.07.022},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/32948369},
+   url = {https://www.sciencedirect.com/science/article/pii/S030028962030257X?via%3Dihub},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@inbook{RN2211,
+   author = {Doll, Rayna J. and Joseph, Nancy I. and McGarry, David and Jhaveri, Devi and Sher, Theodore and Hostoffer, Robert},
+   title = {Epidemiology of Allergic Diseases},
+   booktitle = {Allergy and Asthma: The Basics to Best Practices},
+   publisher = {Springer International Publishing},
+   address = {Cham},
+   pages = {31-51},
+   abstract = {Allergic diseases are a group of conditions categorized by aberrant IgE-mediated responses following allergen exposure. The prevalence of allergic disease is increasing worldwide. There are many proposed theories as to why the prevalence is increasing with a likely multifactorial etiology. Many allergic diseases including asthma, allergic rhinitis, allergic conjunctivitis, and atopic dermatitis share similar risk factors. Food allergies appear to have independent risk factors that differ from other allergic diseases. There has been much research completed on the prevalence and other epidemiological factors involved in allergic disease. There is, however, a significant amount of underreported and understudied allergic disease especially in developing nations which make the accuracy of the data from these areas more difficult to interpret.},
+   ISBN = {978-3-030-05147-1},
+   DOI = {10.1007/978-3-030-05147-1_2},
+   url = {https://doi.org/10.1007/978-3-030-05147-1_2},
+   url = {https://link.springer.com/content/pdf/10.1007%2F978-3-030-05147-1_2.pdf},
+   year = {2019},
+   type = {Book Section}
+}
+
+@article{RN2204,
+   author = {Fischer, G. F. and Pickl, W. F. and Fae, I. and Ebner, C. and Ferreira, F. and Breiteneder, H. and Vikoukal, E. and Scheiner, O. and Kraft, D.},
+   title = {Association between IgE response against Bet v I, the major allergen of birch pollen, and HLA-DRB alleles},
+   journal = {Hum Immunol},
+   volume = {33},
+   number = {4},
+   pages = {259-65},
+   note = {Fischer, G F
+Pickl, W F
+Fae, I
+Ebner, C
+Ferreira, F
+Breiteneder, H
+Vikoukal, E
+Scheiner, O
+Kraft, D
+eng
+Hum Immunol. 1992 Apr;33(4):259-65. doi: 10.1016/0198-8859(92)90333-i.},
+   abstract = {The association of the human IgE response against Bet v I, the major allergen of birch pollen, and the HLA-DR and DQ phenotype was studied. Birch pollen allergic patients showed a typical case history, positive skin-prick test, and positive RAST with birch pollen extracts. They were divided into two groups. Group I (n = 37) consisted of individuals generating IgE antibodies that selectively reacted with Bet v I. Their serum IgE did not react with minor allergens from birch pollen as tested by immunoblot analysis, nor did they show a response against allergens from a panel of grass and other tree pollen or perennial allergens from animals and fungi as determined by skin-prick test. Patients belonging to group II (n = 34) possessed IgE reacting with Bet v I plus one or more additional allergens. The control group consisted of 637 healthy blood donors. Comparison of the frequencies of RFLP-defined HLA-DR and DQ alleles in patients and the control group revealed that the distribution of DRB3 alleles in group I patients differed significantly from that in the control group: A higher frequency of the DRw52a/c alleles in comparison to the control group (pcorr less than 0.02) was observed. In addition, alleles defined by nucleotide sequences coding for the amino acid sequence tyrosine-phenylalanine-histidine at positions 30-32 of the beta chain of DR molecules were found with a higher frequency in patient group I (pcorr less than 0.02), too. These alleles comprise DRw52a/c and some DRB1 alleles.(ABSTRACT TRUNCATED AT 250 WORDS)},
+   keywords = {*Alleles
+Allergens/*immunology
+Amino Acid Sequence
+Antigen-Antibody Reactions
+Antigens, Plant
+HLA-DQ Antigens/immunology
+HLA-DR Antigens/*immunology
+HLA-DR Serological Subtypes
+HLA-DRB3 Chains
+Humans
+Immunoglobulin E/*blood
+Phenotype
+Plant Proteins/*immunology
+Polymorphism, Restriction Fragment Length
+Radioallergosorbent Test
+Skin Tests},
+   ISSN = {0198-8859 (Print)
+0198-8859 (Linking)},
+   DOI = {10.1016/0198-8859(92)90333-i},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/1353487},
+   year = {1992},
+   type = {Journal Article}
+}
+
+@article{RN2171,
+   author = {Fischer, G. F. and Pickl, W. F. and Faé, I. and Ebner, C. and Ferreira, F. and Breiteneder, H. and Vikoukal, E. and Scheiner, O. and Kraft, D.},
+   title = {Association between IgE response against Bet v I, the major allergen of birch pollen, and HLA-DRB alleles},
+   journal = {Hum Immunol},
+   volume = {33},
+   number = {4},
+   pages = {259-65},
+   note = {Fischer, G F
+Pickl, W F
+Faé, I
+Ebner, C
+Ferreira, F
+Breiteneder, H
+Vikoukal, E
+Scheiner, O
+Kraft, D
+1992/4/1},
+   abstract = {The association of the human IgE response against Bet v I, the major allergen of birch pollen, and the HLA-DR and DQ phenotype was studied. Birch pollen allergic patients showed a typical case history, positive skin-prick test, and positive RAST with birch pollen extracts. They were divided into two groups. Group I (n = 37) consisted of individuals generating IgE antibodies that selectively reacted with Bet v I. Their serum IgE did not react with minor allergens from birch pollen as tested by immunoblot analysis, nor did they show a response against allergens from a panel of grass and other tree pollen or perennial allergens from animals and fungi as determined by skin-prick test. Patients belonging to group II (n = 34) possessed IgE reacting with Bet v I plus one or more additional allergens. The control group consisted of 637 healthy blood donors. Comparison of the frequencies of RFLP-defined HLA-DR and DQ alleles in patients and the control group revealed that the distribution of DRB3 alleles in group I patients differed significantly from that in the control group: A higher frequency of the DRw52a/c alleles in comparison to the control group (pcorr less than 0.02) was observed. In addition, alleles defined by nucleotide sequences coding for the amino acid sequence tyrosine-phenylalanine-histidine at positions 30-32 of the beta chain of DR molecules were found with a higher frequency in patient group I (pcorr less than 0.02), too. These alleles comprise DRw52a/c and some DRB1 alleles.(ABSTRACT TRUNCATED AT 250 WORDS)},
+   keywords = {Alleles
+Allergens
+Amino Acid Sequence
+Antigen-Antibody Reactions
+Antigens, Plant
+HLA-DQ Antigens
+HLA-DR Antigens
+HLA-DR Serological Subtypes
+HLA-DRB3 Chains
+Humans
+Immunoglobulin E
+Phenotype
+Plant Proteins
+Polymorphism, Restriction Fragment Length
+Radioallergosorbent Test
+Skin Tests},
+   ISSN = {0198-8859},
+   DOI = {10.1016/0198-8859(92)90333-i},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/1353487},
+   year = {1992},
+   type = {Journal Article}
+}
+
+@article{RN2189,
+   author = {Fukunaga, K. and Chinuki, Y. and Hamada, Y. and Fukutomi, Y. and Sugiyama, A. and Kishikawa, R. and Fukunaga, A. and Oda, Y. and Ugajin, T. and Yokozeki, H. and Harada, N. and Suehiro, M. and Hide, M. and Nakagawa, Y. and Noguchi, E. and Nakamura, M. and Matsunaga, K. and Yagami, A. and Morita, E. and Mushiroda, T.},
+   title = {Genome-wide association study reveals an association between the HLA-DPB1},
+   journal = {Am J Hum Genet},
+   volume = {108},
+   number = {8},
+   pages = {1540-1548},
+   note = {Fukunaga, Koya
+Chinuki, Yuko
+Hamada, Yuto
+Fukutomi, Yuma
+Sugiyama, Akiko
+Kishikawa, Reiko
+Fukunaga, Atsushi
+Oda, Yoshiko
+Ugajin, Tsukasa
+Yokozeki, Hiroo
+Harada, Naoe
+Suehiro, Masataka
+Hide, Michihiro
+Nakagawa, Yukinobu
+Noguchi, Emiko
+Nakamura, Masashi
+Matsunaga, Kayoko
+Yagami, Akiko
+Morita, Eishin
+Mushiroda, Taisei
+2021/7/12},
+   abstract = {Wheat-dependent exercise-induced anaphylaxis (WDEIA) is a life-threatening food allergy triggered by wheat in combination with the second factor such as exercise. The identification of potential genetic risk factors for this allergy might help high-risk individuals before consuming wheat-containing food. We aimed to identify genetic variants associated with WDEIA. A genome-wide association study was conducted in a discovery set of 77 individuals with WDEIA and 924 control subjects via three genetic models. The associations were confirmed in a replication set of 91 affected individuals and 435 control individuals. Summary statistics from the combined set were analyzed by meta-analysis with a random-effect model. In the discovery set, a locus on chromosome 6, rs9277630, was associated with WDEIA in the dominant model (OR = 3.95 [95% CI, 2.31-6.73], p = 7.87 × 10},
+   keywords = {Adult
+Alleles
+Anaphylaxis
+Exercise
+Female
+Genome-Wide Association Study
+HLA-DP beta-Chains
+Humans
+Male
+Middle Aged
+Polymorphism, Genetic
+Wheat Hypersensitivity
+HLA-DPB1
+genome-wide association study
+target sequencing
+wheat allergy
+wheat-dependent exercise-induced anaphylaxis},
+   ISSN = {1537-6605},
+   DOI = {10.1016/j.ajhg.2021.06.017},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/34246321},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN2194,
+   author = {García, Vicente and Sánchez, José Salvador and Mollineda, Ramón Alberto},
+   title = {On the effectiveness of preprocessing methods when dealing with different levels of class imbalance},
+   journal = {Knowledge-Based Systems},
+   volume = {25},
+   number = {1},
+   pages = {13-21},
+   ISSN = {0950-7051},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN2159,
+   author = {Gheerbrant, H. and Guillien, A. and Vernet, R. and Lupinek, C. and Pison, C. and Pin, I. and Demenais, F. and Nadif, R. and Bousquet, J. and Pickl, W. F. and Valenta, R. and Bouzigon, E. and Siroux, V.},
+   title = {Associations between specific IgE sensitization to 26 respiratory allergen molecules and HLA class II alleles in the EGEA cohort},
+   journal = {Allergy},
+   volume = {76},
+   number = {8},
+   pages = {2575-2586},
+   note = {Gheerbrant, Hubert
+Guillien, Alicia
+Vernet, Raphael
+Lupinek, Christian
+Pison, Christophe
+Pin, Isabelle
+Demenais, Florence
+Nadif, Rachel
+Bousquet, Jean
+Pickl, Winfried F
+Valenta, Rudolf
+Bouzigon, Emmanuelle
+Siroux, Valerie
+eng
+Research Support, Non-U.S. Gov't
+Denmark
+Allergy. 2021 Aug;76(8):2575-2586. doi: 10.1111/all.14820. Epub 2021 Apr 7.},
+   abstract = {BACKGROUND: Allergy, the most frequent immune disorder affecting 30% of the world's population, is the consequence of immunoglobin E (IgE) sensitization to allergens. Among the genetic factors suspected to be involved in allergy, the HLA class-II genomic region is a strong candidate. OBJECTIVE: To assess the association between HLA class-II alleles and specific IgE (sIgE) sensitization to a large number of respiratory allergen molecules. METHODS: The analysis relied on 927 participants of the EGEA cohort, including 497 asthmatics. The study focuses on 26 aeroallergens recognized by sIgE in at least 5% of the study population (determined with the MEDALL chip with sIgE >/= 0.3 ISU) and 23 imputed HLA class-II alleles. For each sIgE sensitization and HLA class-II allele, we fitted a logistic regression model accounting for familial dependence and adjusted for gender, age, and genetic principal components. p-values were corrected for multiple comparisons (False Discovery Rate). RESULTS: Most of the 19 statistically significant associations observed regard pollen allergens (mugwort Art v 1, olive tree Ole e 1, timothy grass Phl p 2, Phl p 5 and plantain Pla l 1), three were mold allergen (Alternaria Alt a 1), and a single one regards house dust mite allergen (Der p 7). No association was observed with pet allergens. The strongest associations were found with mugwort Art v 1 (OR = 5.42 (95%CI, 3.30; 8.88), 4.14 (2.65; 6.47), 3.16 (1.88; 5.31) with DQB1*05:01, DQA1*01:01 and DRB1*01:01, respectively). CONCLUSION: Our results support the important role of HLA class-II alleles as immune response genes predisposing their carriers for sensitization to various major pollen allergens.},
+   keywords = {Alleles
+*Allergens
+Humans
+*Hypersensitivity/genetics
+Immunoglobulin E
+Phleum
+*HLA class-II genes
+*MeDALL allergen-chip
+*genetic epidemiology
+*respiratory allergen
+*specific IgE},
+   ISSN = {1398-9995 (Electronic)
+0105-4538 (Linking)},
+   DOI = {10.1111/all.14820},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/33742477},
+   url = {https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/all.14820?download=true},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN2193,
+   author = {Gutierrez-Arcelus, M. and Baglaenko, Y. and Arora, J. and Hannes, S. and Luo, Y. and Amariuta, T. and Teslovich, N. and Rao, D. A. and Ermann, J. and Jonsson, A. H. and Navarrete, C. and Rich, S. S. and Taylor, K. D. and Rotter, J. I. and Gregersen, P. K. and Esko, T. and Brenner, M. B. and Raychaudhuri, S. and Consortium, NHLBI Trans-Omics for Precision Medicine (TOPMed)},
+   title = {Allele-specific expression changes dynamically during T cell activation in HLA and other autoimmune loci},
+   journal = {Nat Genet},
+   volume = {52},
+   number = {3},
+   pages = {247-253},
+   note = {Gutierrez-Arcelus, Maria
+Baglaenko, Yuriy
+Arora, Jatin
+Hannes, Susan
+Luo, Yang
+Amariuta, Tiffany
+Teslovich, Nikola
+Rao, Deepak A
+Ermann, Joerg
+Jonsson, A Helena
+Navarrete, Cristina
+Rich, Stephen S
+Taylor, Kent D
+Rotter, Jerome I
+Gregersen, Peter K
+Esko, Tonu
+Brenner, Michael B
+Raychaudhuri, Soumya
+2020/2/19},
+   abstract = {Genetic studies have revealed that autoimmune susceptibility variants are over-represented in memory CD4},
+   keywords = {Alleles
+Autoimmunity
+CD4-Positive T-Lymphocytes
+CRISPR-Cas Systems
+Cell Line
+Gene Expression Regulation
+Genetic Loci
+Genetic Variation
+Genotyping Techniques
+HLA Antigens
+HLA-DQ beta-Chains
+Humans
+Immunity, Cellular
+Lymphocyte Activation
+Promoter Regions, Genetic
+T-Lymphocytes, Regulatory},
+   ISSN = {1546-1718},
+   DOI = {10.1038/s41588-020-0579-4},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/32066938},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN2233,
+   author = {Hammoudeh, S. and Hani, Y. and Alfaki, M. and Omar, N. and El Dimassi, D. and Nowir, K. and Gadelhaq, W. and AlNaimi, A. and Elizabeth, C. and Khashfeh, S. and Chandra, P. and Janahi, I. A.},
+   title = {The prevalence of asthma, allergic rhinitis, and eczema among school-aged children in Qatar: A Global Asthma Network Study},
+   journal = {Pediatr Pulmonol},
+   note = {Hammoudeh, Samer
+Hani, Yahya
+Alfaki, Mohamed
+Omar, Nadia
+El Dimassi, Darine
+Nowir, Khansae
+Gadelhaq, Wessam
+AlNaimi, Amal
+Elizabeth, Cynthia
+Khashfeh, Sawsan
+Chandra, Prem
+Janahi, Ibrahim A
+eng
+16314/16/Hamad Medical Corporation
+Pediatr Pulmonol. 2022 Apr 1. doi: 10.1002/ppul.25914.},
+   abstract = {This cross-sectional study aims to utilize the Global Asthma Network (GAN) questionnaires to estimate the prevalence of asthma, allergic rhinitis, and eczema among children in Qatar. The study population was comprised of children ages 6-7 and 13-14 years, along with their parents or guardians. The English and Arabic versions of the GAN questionnaires were used to collect data for this study. A total of 2646 participants were recruited (1210 in the 6-7 years age group and 1436 in the 13-14 years age group), in addition to a total of 3831 parents or guardians. The overall prevalence of diagnosed asthma, lifetime allergic rhinitis, and diagnosed eczema in our study sample were as follows: 34.6%, 30.9%, and 37.4%, respectively. The current study showed an increased prevalence rate of asthma and eczema comparing to previous local estimates. These rates were higher in some cases or comparable in other cases to those found elsewhere. It is recommended that future research focus on studying the various factors contributing to the cases of asthma, allergic rhinitis, and eczema in Qatar. The reporting of this study conforms with the STROBE statement.},
+   keywords = {Global Asthma Network
+Qatar
+allergic rhinitis
+asthma
+eczema
+prevalence},
+   ISSN = {1099-0496 (Electronic)
+1099-0496 (Linking)},
+   DOI = {10.1002/ppul.25914},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/35362672},
+   url = {https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ppul.25914?download=true},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN2243,
+   author = {Han, F. and Lin, L. and Schormair, B. and Pizza, F. and Plazzi, G. and Ollila, H. M. and Nevsimalova, S. and Jennum, P. and Knudsen, S. and Winkelmann, J. and Coquillard, C. and Babrzadeh, F. and Strom, T. M. and Wang, C. and Mindrinos, M. and Fernandez Vina, M. and Mignot, E.},
+   title = {HLA DQB1*06:02 negative narcolepsy with hypocretin/orexin deficiency},
+   journal = {Sleep},
+   volume = {37},
+   number = {10},
+   pages = {1601-8},
+   note = {Han, Fang
+Lin, Ling
+Schormair, Barbara
+Pizza, Fabio
+Plazzi, Giuseppe
+Ollila, Hanna M
+Nevsimalova, Sona
+Jennum, Poul
+Knudsen, Stine
+Winkelmann, Juliane
+Coquillard, Cristin
+Babrzadeh, Farbod
+Strom, Tim M
+Wang, Chunlin
+Mindrinos, Michael
+Fernandez Vina, Marcelo
+Mignot, Emmanuel
+eng
+5U01-NS073581/NS/NINDS NIH HHS/
+NS23724/NS/NINDS NIH HHS/
+Multicenter Study
+Research Support, N.I.H., Extramural
+Sleep. 2014 Oct 1;37(10):1601-8. doi: 10.5665/sleep.4066.},
+   abstract = {STUDY OBJECTIVES: To identify rare allelic variants and HLA alleles in narcolepsy patients with hypocretin (orexin, HCRT) deficiency but lacking DQB1*06:02. SETTINGS: China (Peking University People's Hospital), Czech Republic (Charles University), Denmark (Golstrup Hospital), Italy (University of Bologna), Korea (Catholic University), and USA (Stanford University). DESIGN: CSF hypocretin-1, DQB1*06:02, clinical and polysomnographic data were collected in narcolepsy patients (552 with and 144 without cataplexy) from 6 sites. Numbers of cases with and without DQB1*06:02 and low CSF hypocretin-1 were compiled. HLA class I (A, B, C), class II (DRBs, DQA1, DQB1, DPA1, and DPB1), and whole exome sequencing were conducted in 9 DQB1*06:02 negative cases with low CSF hypocretin-1. Sanger sequencing of selected exons in DNMT1, HCRT, and MOG was performed to exclude mutations in known narcolepsy-associated genes. MEASUREMENTS AND RESULTS: Classic narcolepsy markers DQB1*06:02 and low CSF hypocretin-1 were found in 87.4% of cases with cataplexy, and in 20.0% without cataplexy. Nine cases (all with cataplexy) were DQB1*06:02 negative with low CSF hypocretin-1, constituting 1.7% [0.8%-3.4%] of all cases with cataplexy and 1.8% [0.8%-3.4%] of cases with low CSF hypocretin independent of cataplexy across sites. Five HLA negative subjects had severe cataplexy, often occurring without clear triggers. Subjects had diverse ethnic backgrounds and HLA alleles at all loci, suggesting no single secondary HLA association. The rare subtype DPB1*0901, and homologous DPB1*10:01 subtype, were present in 5 subjects, suggesting a secondary association with HLA-DP. Preprohypocretin sequencing revealed no mutations beyond one previously reported in a very early onset case. No new MOG or DNMT1 mutations were found, nor were suspicious or private variants in novel genes identified through exome sequencing. CONCLUSIONS: Hypocretin, MOG, or DNMT1 mutations are exceptional findings in DQB1*06:02 negative cases with hypocretin deficiency. A secondary HLA-DP association may be present in these cases. These represent particularly difficult diagnostic challenges.},
+   keywords = {Alleles
+Cataplexy/genetics
+Cohort Studies
+DNA Mutational Analysis
+HLA-DQ beta-Chains/*genetics
+Humans
+Internationality
+Intracellular Signaling Peptides and Proteins/cerebrospinal
+fluid/*deficiency/*genetics
+Mutation/genetics
+Myelin-Oligodendrocyte Glycoprotein/genetics
+Narcolepsy/*genetics
+Neuropeptides/cerebrospinal fluid/*deficiency/*genetics
+Orexins
+Repressor Proteins/genetics
+Dnmt1
+Hla
+Mhc
+Mog
+cataplexy
+exome sequencing
+hypocretin
+narcolepsy
+orexin},
+   ISSN = {1550-9109 (Electronic)
+0161-8105 (Linking)},
+   DOI = {10.5665/sleep.4066},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/25197808},
+   url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4173917/pdf/aasm.37.10.1601.pdf},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN2109,
+   author = {Hasan, M. R. and Rahman, M. and Khan, T. and Saeed, A. and Sundararaju, S. and Flores, A. and Hawken, P. and Rawat, A. and Elkum, N. and Hussain, K. and Tan, R. and Tang, P. and Marr, N.},
+   title = {Virome-wide serological profiling reveals association of herpesviruses with obesity},
+   journal = {Sci Rep},
+   volume = {11},
+   number = {1},
+   pages = {2562},
+   note = {Hasan, Mohammad Rubayet
+Rahman, Mahbuba
+Khan, Taushif
+Saeed, Amira
+Sundararaju, Sathyavathi
+Flores, Annaliza
+Hawken, Phillip
+Rawat, Arun
+Elkum, Naser
+Hussain, Khalid
+Tan, Rusung
+Tang, Patrick
+Marr, Nico
+eng
+SDR200036/Sidra Medicine
+PPM1-1220-150017/Qatar National Research Fund
+England
+Sci Rep. 2021 Jan 28;11(1):2562. doi: 10.1038/s41598-021-82213-4.},
+   abstract = {The relationship between viral infection and obesity has been known for several decades but epidemiological data is limited to only a few viral pathogens. The association between obesity and a wide range of viruses was assessed using VirScan, a pan-viral serological profiling tool. Serum specimens from 457 Qatari adults (lean = 184; obese = 273) and 231 Qatari children (lean = 111; obese = 120) were analyzed by VirScan. Associations with obesity were determined by odds ratio (OR) and Fisher's test (p values), and by multivariate regression analysis to adjust for age and gender. Although there was no association of viral infections with obesity in the pediatric population, a nominal association of obesity with seropositivity to members of the Herpesviridae family is observed for the adult population (OR = 1.5-3.3; p < 0.05). After adjusting p values for multiple comparisons (Bonferroni correction) the odds of being obese is significantly higher in herpes simplex virus 1 (HSV-1) seropositive Qatari adults (OR = 3.3; 95% CI 2.15-4.99; p = 2.787E - 08). By VirScan, the sero-prevalence of HSV1 is 81.3% and 57.1% among Qatari obese and lean adult populations, respectively. Higher prevalence of antibodies against several peptide epitopes of HSV-1/2 is positively associated with obesity (OR = 2.35-3.82; p </= 3.981E - 05). By multivariate regression analysis, HSV-1 was independently associated with obesity irrespective of age and gender. Our results suggest that obesity among Qataris may be associated with a higher prevalence of herpesvirus infections, in particular HSV-1. Furthermore, the high prevalence of antibodies against peptide antigens specific to HSV-1 and -2 in the obese population suggests that these viral peptides may play a role in adipogenesis. Further studies with these candidate peptides in cell culture or animal models may confirm their adipogenic roles.},
+   ISSN = {2045-2322 (Electronic)
+2045-2322 (Linking)},
+   DOI = {10.1038/s41598-021-82213-4},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/33510449},
+   url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7843976/pdf/41598_2021_Article_82213.pdf},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN2212,
+   author = {Hellman, L. T. and Akula, S. and Thorpe, M. and Fu, Z.},
+   title = {Tracing the Origins of IgE, Mast Cells, and Allergies by Studies of Wild Animals},
+   journal = {Front Immunol},
+   volume = {8},
+   pages = {1749},
+   note = {Hellman, Lars Torkel
+Akula, Srinivas
+Thorpe, Michael
+Fu, Zhirong
+eng
+Review
+Switzerland
+Front Immunol. 2017 Dec 19;8:1749. doi: 10.3389/fimmu.2017.01749. eCollection 2017.},
+   abstract = {In most industrialized countries, allergies have increased in frequency quite dramatically during the past 50 years. Estimates show that 20-30% of the populations are affected. Allergies have thereby become one of the major medical challenges of the twenty-first century. Despite several theories including the hygiene hypothesis, there are still very few solid clues concerning the causes of this increase. To trace the origins of allergies, we have studied cells and molecules of importance for the development of IgE-mediated allergies, including the repertoire of immunoglobulin genes. These studies have shown that IgE and IgG most likely appeared by a gene duplication of IgY in an early mammal, possibly 220-300 million years ago. Receptors specific for IgE and IgG subsequently appeared in parallel with the increase in Ig isotypes from a subfamily of the recently identified Fc receptor-like molecules. Circulating IgE levels are generally very low in humans and laboratory rodents. However, when dogs and Scandinavian wolfs were analyzed, IgE levels were found to be 100-200 times higher compared to humans, indicating a generally much more active IgE synthesis in free-living animals, most likely connected to intestinal parasite infections. One of the major effector molecules released upon IgE-mediated activation by mast cells are serine proteases. These proteases, which belong to the large family of hematopoietic serine proteases, are extremely abundant and can account for up to 35% of the total cellular protein. Recent studies show that several of these enzymes, including the chymases and tryptases, are old. Ancestors for these enzymes were most likely present in an early mammal more than 200 million years ago before the separation of the three extant mammalian lineages; monotremes, marsupials, and placental mammals. The aim is now to continue these studies of mast cell biology and IgE to obtain additional clues to their evolutionary conserved functions. A focus concerns why the humoral immune response involving IgE and mast cells have become so dysregulated in humans as well as several of our domestic companion animals.},
+   keywords = {Fc receptor
+IgE
+IgE homeostasis
+allergy
+asthma
+dermatitis
+mast cell},
+   ISSN = {1664-3224 (Print)
+1664-3224 (Linking)},
+   DOI = {10.3389/fimmu.2017.01749},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/29312297},
+   url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5742104/},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN2198,
+   author = {Holm, Sture},
+   title = {A simple sequentially rejective multiple test procedure},
+   journal = {Scandinavian journal of statistics},
+   pages = {65-70},
+   ISSN = {0303-6898},
+   year = {1979},
+   type = {Journal Article}
+}
+
+@article{RN2176,
+   author = {Hopp, R. J. and Bewtra, A. K. and Watt, G. D. and Nair, N. M. and Townley, R. G.},
+   title = {Genetic analysis of allergic disease in twins},
+   journal = {J Allergy Clin Immunol},
+   volume = {73},
+   number = {2},
+   pages = {265-70},
+   note = {Hopp, R J
+Bewtra, A K
+Watt, G D
+Nair, N M
+Townley, R G
+eng
+J Allergy Clin Immunol. 1984 Feb;73(2):265-70. doi: 10.1016/s0091-6749(84)80018-4.},
+   abstract = {One hundred seven pairs of twins, sixty-one MZT and forty-six DZT, were investigated for allergic disease by a questionnaire, reaginic antibody levels, bronchial reactivity to inhaled methacholine, and skin test responses. Intrapair correlation coefficients (ri) of measured clinical markers of atopy were determined and a heritability analysis was performed. The intrapair correlation coefficient for serum IgE was 0.82 for MZT and 0.52 for DZT. The methacholine area demonstrated greater correlation in MZT with an ri of 0.67 compared to 0.34 for DZT. The total ISTS had an intrapair correlation coefficient of 0.82 in MZT and 0.46 in DZT. Our analysis demonstrates that methacholine sensitivity, total serum IgE levels, and total skin test scores to be heritable traits and suggests a genetic contribution to their expression.},
+   keywords = {Adolescent
+Adult
+Asthma/*genetics
+Child
+*Diseases in Twins
+Female
+Humans
+Male
+Pregnancy
+Statistics as Topic
+Twins, Dizygotic
+Twins, Monozygotic},
+   ISSN = {0091-6749 (Print)
+0091-6749 (Linking)},
+   DOI = {10.1016/s0091-6749(84)80018-4},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/6538209},
+   year = {1984},
+   type = {Journal Article}
+}
+
+@article{RN2184,
+   author = {Howell, W. M.},
+   title = {HLA immunogenetics and specific IgE responses to allergens},
+   journal = {Clin Exp Allergy},
+   volume = {24},
+   number = {5},
+   pages = {401-4},
+   note = {Howell, W M
+eng
+Comment
+Editorial
+England
+Clin Exp Allergy. 1994 May;24(5):401-4. doi: 10.1111/j.1365-2222.1994.tb00926.x.},
+   keywords = {Allergens/*immunology
+Genotype
+HLA-DP Antigens/*genetics
+HLA-DR Antigens/*genetics
+Humans
+Immunoglobulin E/genetics/*immunology},
+   ISSN = {0954-7894 (Print)
+0954-7894 (Linking)},
+   DOI = {10.1111/j.1365-2222.1994.tb00926.x},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/8087649},
+   year = {1994},
+   type = {Journal Article}
+}
+
+@article{RN2203,
+   author = {Howell, W. M. and Holgate, S. T.},
+   title = {HLA genetics and allergic disease},
+   journal = {Thorax},
+   volume = {50},
+   number = {8},
+   pages = {815-8},
+   note = {Howell, W M
+Holgate, S T
+eng
+Editorial
+Review
+England
+Thorax. 1995 Aug;50(8):815-8. doi: 10.1136/thx.50.8.815.},
+   keywords = {Adult
+Alleles
+Child
+Genes, MHC Class I/genetics/immunology
+Genes, MHC Class II/*genetics/immunology
+Humans
+Hypersensitivity, Immediate/*genetics
+Immunoglobulin E/biosynthesis/*immunology
+Polymorphism, Genetic},
+   ISSN = {0040-6376 (Print)
+0040-6376 (Linking)},
+   DOI = {10.1136/thx.50.8.815},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/7570428},
+   year = {1995},
+   type = {Journal Article}
+}
+
+@article{RN2206,
+   author = {Ingram, K. J. and O'Shields, E. F. and Kiger, D. F. and Gautreaux, M. D.},
+   title = {NGS and HLA: The long road ahead},
+   journal = {Hum Immunol},
+   volume = {81},
+   number = {6},
+   pages = {280-284},
+   note = {Ingram, Kelly J
+O'Shields, Elaine F
+Kiger, David F
+Gautreaux, Michael D
+eng
+Hum Immunol. 2020 Jun;81(6):280-284. doi: 10.1016/j.humimm.2020.03.001. Epub 2020 Mar 16.},
+   abstract = {This manuscript is a continuation of this laboratory's journey to identifying novel HLA alleles while performing routine clinical HLA laboratory testing. Since our last paper, we have identified an additional 28 novel HLA alleles that are identified and described herein. One novel allele was found in two unrelated patients that were HLA typed for different reasons at two different times, suggesting that novel alleles may be much more frequent than previously expected. If the rate of identification is hindered by bioinformatics challenges, there is a great potential for our patients to suffer needlessly from incomplete information in either diagnostics or unrecognized incompatibilities with potential donors.},
+   keywords = {Alleles
+*Bone Marrow Transplantation
+Computational Biology
+Gene Frequency
+*Genotype
+HLA Antigens/*genetics
+High-Throughput Nucleotide Sequencing/*methods
+Histocompatibility
+Histocompatibility Testing
+Humans
+Mutation/*genetics
+Tissue Donors},
+   ISSN = {1879-1166 (Electronic)
+0198-8859 (Linking)},
+   DOI = {10.1016/j.humimm.2020.03.001},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/32192758},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN2182,
+   author = {Jahn-Schmid, B. and Fischer, G. F. and Bohle, B. and Fae, I. and Gadermaier, G. and Dedic, A. and Ferreira, F. and Ebner, C.},
+   title = {Antigen presentation of the immunodominant T-cell epitope of the major mugwort pollen allergen, Art v 1, is associated with the expression of HLA-DRB1 *01},
+   journal = {J Allergy Clin Immunol},
+   volume = {115},
+   number = {2},
+   pages = {399-404},
+   note = {Jahn-Schmid, Beatrice
+Fischer, Gottfried F
+Bohle, Barbara
+Fae, Ingrid
+Gadermaier, Gabriele
+Dedic, Azra
+Ferreira, Fatima
+Ebner, Christof
+eng
+Research Support, Non-U.S. Gov't
+J Allergy Clin Immunol. 2005 Feb;115(2):399-404. doi: 10.1016/j.jaci.2004.10.010.},
+   abstract = {BACKGROUND: Mugwort pollen allergens are the main cause of pollinosis in late summer in Europe. Ninety-five percent of patients allergic to mugwort are sensitized to the major allergen Art v 1. In contrast to other common pollen allergens that contain multiple T-cell epitopes, Art v 1 contains only 1 immunodominant T-cell epitope (Art v 1 25-36 ). OBJECTIVE: To characterize the minimal epitope of Art v 1 25-36 and to investigate a possible association of Art v 1 reactivity with HLA class II phenotypes. METHODS: Art v 1-specific T-cell lines and clones were established from 51 patients with clinically defined mugwort pollen allergy and IgE specific for Art v 1. To define minimal epitopes and binding sites within Art v 1 25-36 , truncated and single-substitution analog peptides were used for T-cell stimulation. To study HLA restriction, monoclonal anti-HLA antibodies and antigen-presenting cells with defined HLA-DRB and -DQB1 alleles were used. HLA typing of patients with allergy was performed by hybridization with sequence-specific oligonucleotides, PCR, and nucleotide sequencing. RESULTS: In 96% of the patients, a cellular response to Art v 1 25-36 was obtained, and a core region of 5 to 10 amino acids containing 3 to 5 amino acids essential for T-cell reactivity was defined. The frequency of HLA-DRB1 * 01 in patients recognizing Art v 1 25-36 was significantly increased as compared with healthy controls (69% vs 21%; odds ratio, 8.45; P < 10 -6 ), and HLA-DRB1 * 01 was identified as the main restriction element for the presentation of the immunodominant epitope. CONCLUSIONS: Allergy to Art v 1 is characterized by a uniform T-cell response. The disease is apparently associated with the HLA-DR1 phenotype. Therefore, mugwort pollinosis is an ideal candidate for a peptide-based immunotherapy.},
+   keywords = {Adolescent
+Adult
+Allergens/*immunology
+Antigen Presentation/*immunology
+Antigens, Plant
+Case-Control Studies
+Cell Division
+Child
+Epitopes, T-Lymphocyte/*immunology
+Female
+Genotype
+HLA-DR Antigens/genetics/*metabolism
+HLA-DRB1 Chains
+Humans
+Immunodominant Epitopes/*immunology
+Male
+Middle Aged
+Plant Proteins/*immunology
+T-Lymphocytes/cytology/immunology},
+   ISSN = {0091-6749 (Print)
+0091-6749 (Linking)},
+   DOI = {10.1016/j.jaci.2004.10.010},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/15696102},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN2178,
+   author = {Janahi, I. A. and Bener, A. and Bush, A.},
+   title = {Prevalence of asthma among Qatari schoolchildren: International Study of Asthma and Allergies in Childhood, Qatar},
+   journal = {Pediatr Pulmonol},
+   volume = {41},
+   number = {1},
+   pages = {80-6},
+   note = {Janahi, Ibrahim A
+Bener, Abdulbari
+Bush, Andrew
+eng
+Research Support, Non-U.S. Gov't
+Pediatr Pulmonol. 2006 Jan;41(1):80-6. doi: 10.1002/ppul.20331.},
+   abstract = {The aim of the present study is to determine the prevalence of asthma and allergic diseases among schoolchildren aged 6-14 years in the State of Qatar, based on a questionnaire designed by the International Study of Asthma and Allergy in Childhood (ISAAC). A cross-sectional study of 3,283 school children living in both urban and rural areas (average age, 9.03 +/- 1.99 years; 52.3% boys and 47.7% girls) was conducted between February 2003-February 2004. The population sample had a high prevalence of diagnosed asthma (19.8%), allergic rhinitis (30.5%), eczema (22.5%), and chest infection (11.9%). The frequency of asthma, allergic rhinitis, and eczema among parents reflected the same pattern as seen in their children. Overall, males had more asthma, allergic rhinitis, and chest infections than females. In general, the prevalence rate of asthma and allergic rhinitis decreased with age. The prevalence rate of asthma was significantly higher in mothers (11.8%) than in fathers (9.0%), but the frequency of allergic rhinitis symptoms was comparable (mothers, 18.5%; fathers, 17.5%). The prevalence rate of asthma (19.8%) in Qatari schoolchildren is very close to that in the neighboring Gulf country, Oman (20.7%), and higher than in some developing countries. Genetic factors related to the high rates of consanguinity may play an important role in the high prevalence rates noted in the Qatari population, but changes in lifestyle and environmental factors cannot be discounted as possible causes of the high prevalence noted in this study.},
+   keywords = {Adolescent
+Age Factors
+Asthma/*epidemiology
+Canada/epidemiology
+Child
+Cross-Sectional Studies
+Eczema/epidemiology
+Female
+Humans
+Hypersensitivity/*epidemiology
+Male
+Prevalence
+Qatar/epidemiology
+Rhinitis/epidemiology
+Surveys and Questionnaires},
+   ISSN = {8755-6863 (Print)
+1099-0496 (Linking)},
+   DOI = {10.1002/ppul.20331},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/16283628},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN2207,
+   author = {Kaiser, J.},
+   title = {Qatar's genome effort slowly gears up},
+   journal = {Science},
+   volume = {354},
+   number = {6317},
+   pages = {1220},
+   note = {Kaiser, Jocelyn
+eng
+Science. 2016 Dec 9;354(6317):1220. doi: 10.1126/science.354.6317.1220.},
+   keywords = {Databases, Nucleic Acid
+Female
+Human Genome Project/*ethics
+Humans
+Qatar
+Sequence Analysis, DNA/*ethics},
+   ISSN = {1095-9203 (Electronic)
+0036-8075 (Linking)},
+   DOI = {10.1126/science.354.6317.1220},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27940829},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN2110,
+   author = {Khan, T. and Rahman, M. and Ali, F. A. and Huang, S. S. Y. and Ata, M. and Zhang, Q. and Bastard, P. and Liu, Z. and Jouanguy, E. and Beziat, V. and Cobat, A. and Nasrallah, G. K. and Yassine, H. M. and Smatti, M. K. and Saeed, A. and Vandernoot, I. and Goffard, J. C. and Smits, G. and Migeotte, I. and Haerynck, F. and Meyts, I. and Abel, L. and Casanova, J. L. and Hasan, M. R. and Marr, N.},
+   title = {Distinct antibody repertoires against endemic human coronaviruses in children and adults},
+   journal = {JCI Insight},
+   volume = {6},
+   number = {4},
+   pages = {e144499},
+   note = {Khan, Taushif
+Rahman, Mahbuba
+Ali, Fatima Al
+Huang, Susie S Y
+Ata, Manar
+Zhang, Qian
+Bastard, Paul
+Liu, Zhiyong
+Jouanguy, Emmanuelle
+Beziat, Vivien
+Cobat, Aurelie
+Nasrallah, Gheyath K
+Yassine, Hadi M
+Smatti, Maria K
+Saeed, Amira
+Vandernoot, Isabelle
+Goffard, Jean-Christophe
+Smits, Guillaume
+Migeotte, Isabelle
+Haerynck, Filomeen
+Meyts, Isabelle
+Abel, Laurent
+Casanova, Jean-Laurent
+Hasan, Mohammad R
+Marr, Nico
+eng
+Research Support, Non-U.S. Gov't
+JCI Insight. 2021 Feb 22;6(4). pii: 144499. doi: 10.1172/jci.insight.144499.},
+   abstract = {Four endemic human coronaviruses (HCoVs) are commonly associated with acute respiratory infection in humans. B cell responses to these "common cold" viruses remain incompletely understood. Here we report a comprehensive analysis of CoV-specific antibody repertoires in 231 children and 1168 adults using phage immunoprecipitation sequencing. Seroprevalence of antibodies against endemic HCoVs ranged between approximately 4% and 27% depending on the species and cohort. We identified at least 136 novel linear B cell epitopes. Antibody repertoires against endemic HCoVs were qualitatively different between children and adults in that anti-HCoV IgG specificities more frequently found among children targeted functionally important and structurally conserved regions of the spike, nucleocapsid, and matrix proteins. Moreover, antibody specificities targeting the highly conserved fusion peptide region and S2' cleavage site of the spike protein were broadly cross-reactive with peptides of epidemic human and nonhuman coronaviruses. In contrast, an acidic tandem repeat in the N-terminal region of the Nsp3 subdomain of the HCoV-HKU1 polyprotein was the predominant target of antibody responses in adult donors. Our findings shed light on the dominant species-specific and pan-CoV target sites of human antibody responses to coronavirus infection, thereby providing important insights for the development of prophylactic or therapeutic monoclonal antibodies and vaccine design.},
+   keywords = {Adult
+Antibodies, Viral/blood/immunology/*isolation & purification
+Antibody Specificity
+Antigens, Viral/blood/immunology
+Child
+Child, Preschool
+Common Cold/blood/epidemiology/immunology/*virology
+Coronavirus/*immunology/isolation & purification
+Coronavirus Infections/blood/epidemiology/*immunology/virology
+Cross Reactions
+*Endemic Diseases
+Epitopes, B-Lymphocyte/blood/immunology
+Female
+Humans
+Male
+Middle Aged
+Protein Domains/immunology
+Retrospective Studies
+Seroepidemiologic Studies
+Viral Proteins/immunology
+*Immunoglobulins
+*Immunology
+*Infectious disease},
+   ISSN = {2379-3708 (Electronic)
+2379-3708 (Linking)},
+   DOI = {10.1172/jci.insight.144499},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/33497357},
+   url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7934927/pdf/jciinsight-6-144499.pdf},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN2156,
+   author = {Khor, S. S. and Morino, R. and Nakazono, K. and Kamitsuji, S. and Akita, M. and Kawajiri, M. and Yamasaki, T. and Kami, A. and Hoshi, Y. and Tada, A. and Ishikawa, K. and Hine, M. and Kobayashi, M. and Kurume, N. and Kamatani, N. and Tokunaga, K. and Johnson, T. A.},
+   title = {Genome-wide association study of self-reported food reactions in Japanese identifies shrimp and peach specific loci in the HLA-DR/DQ gene region},
+   journal = {Sci Rep},
+   volume = {8},
+   number = {1},
+   pages = {1069},
+   note = {Khor, Seik-Soon
+Morino, Ryoko
+Nakazono, Kazuyuki
+Kamitsuji, Shigeo
+Akita, Masanori
+Kawajiri, Maiko
+Yamasaki, Tatsuya
+Kami, Azusa
+Hoshi, Yuria
+Tada, Asami
+Ishikawa, Kenichi
+Hine, Maaya
+Kobayashi, Miki
+Kurume, Nami
+Kamatani, Naoyuki
+Tokunaga, Katsushi
+Johnson, Todd A
+eng
+England
+Sci Rep. 2018 Jan 18;8(1):1069. doi: 10.1038/s41598-017-18241-w.},
+   abstract = {Food allergy is an increasingly important health problem in the world. Several genome-wide association studies (GWAS) focused on European ancestry samples have identified food allergy-specific loci in the HLA class II region. We conducted GWAS of self-reported reactivity with common foods using the data from 11011 Japanese women and identified shrimp and peach allergy-specific loci in the HLA-DR/DQ gene region tagged by rs74995702 (P = 6.30 x 10(-17), OR = 1.91) and rs28359884 (P = 2.3 x 10(-12), OR = 1.80), respectively. After HLA imputation using a Japanese population-specific reference, the most strongly associated haplotype was HLA-DRB1*04:05-HLA-DQB1*04:01 for shrimp allergy (P = 3.92 x 10(-19), OR = 1.99) and HLA-DRB1*09:01-HLA-DQB1*03:03 for peach allergy (P = 1.15 x 10(-7), OR = 1.68). Additionally, both allergies' associated variants were eQTLs for several HLA genes, with HLA-DQA2 the single eQTL gene shared between the two traits. Our study suggests that allergy to certain foods may be related to genetic differences that tag both HLA alleles having particular epitope binding specificities as well as variants modulating expression of particular HLA genes. Investigating this further could increase our understanding of food allergy aetiology and potentially lead to better therapeutic strategies for allergen immunotherapies.},
+   keywords = {Adult
+*Alleles
+Allergens/*immunology
+Animals
+Anostraca/immunology
+Computational Biology/methods
+Cross Reactions/genetics/immunology
+Epitopes/*immunology
+Female
+Food Hypersensitivity/diagnosis/*genetics/*immunology
+Genetic Predisposition to Disease
+*Genome-Wide Association Study
+HLA-DQ Antigens/*genetics
+HLA-DR Antigens/*genetics
+Humans
+Japan
+Polymorphism, Single Nucleotide
+Prunus persica/adverse effects
+Self Report},
+   ISSN = {2045-2322 (Electronic)
+2045-2322 (Linking)},
+   DOI = {10.1038/s41598-017-18241-w},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/29348432},
+   url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773682/pdf/41598_2017_Article_18241.pdf},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN2163,
+   author = {Kim, Y. K. and Oh, H. B. and Oh, S. Y. and Cho, S. H. and Kim, Y. Y. and Min, K. U.},
+   title = {HLA-DRB1*07 may have a susceptibility and DRB1*04 a protective effect upon the development of a sensitization to house dust mite Dermatophagoides pteronyssinus},
+   journal = {Clin Exp Allergy},
+   volume = {31},
+   number = {1},
+   pages = {110-5},
+   note = {Kim, Y K
+Oh, H B
+Oh, S Y
+Cho, S H
+Kim, Y Y
+Min, K U
+eng
+Research Support, Non-U.S. Gov't
+England
+Clin Exp Allergy. 2001 Jan;31(1):110-5.},
+   abstract = {BACKGROUND: IgE responses to house dust mite-derived allergens seem to be the most important in the development of atopic asthma and rhinitis, but it has been difficult to demonstrate genetic control of the IgE response to the allergens. OBJECTIVE: This study was undertaken to investigate the association between sensitization to house dust mite, D. pteronyssinus (DP), and genotypes of HLA-DRB1 alleles. METHODS: DNAs were extracted from two groups of unrelated Koreans: (1) 178 with sensitization to DP; and (2) 99 age-matched non-atopic controls. Genotypes of the HLA-DRB1 alleles were determined using polymerase chain reaction (PCR)-based methods. RESULTS: The frequency of HLA-DRB1*07 was significantly increased in the DP-sensitive subjects compared with the controls (15.7% vs 4.0%, P = 0.009). Conversely, the frequencies of HLA-DRB1*04 and *14 were decreased in the DP-sensitive subjects compared with the controls (27.5% vs 45.5%, P = 0.002; 13.5% vs 24.2%, P = 0.02). Of the DRB1*04 alleles, DRB1*0403 was significantly decreased in the DP-sensitive subjects compared with the controls (3.9% vs 13.1%, P = 0.005). No significant differences were found in the distributions of the other HLA-DRB1 alleles between the two groups. CONCLUSION: HLA-DRB1*07 may have a susceptibility, and DRB1*04 and DRB1*14 may have a protective effect, upon the development of a sensitization to DP.},
+   keywords = {Adolescent
+Adult
+Alleles
+Antigens, Dermatophagoides
+Dust/*adverse effects
+Female
+Genetic Predisposition to Disease/*genetics
+Genotype
+Glycoproteins/*adverse effects/immunology
+HLA-DR Antigens/*genetics
+HLA-DRB1 Chains
+Humans
+Hypersensitivity, Immediate/etiology/*genetics
+Male
+Polymerase Chain Reaction},
+   ISSN = {0954-7894 (Print)
+0954-7894 (Linking)},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/11167958},
+   url = {https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-2222.2001.00950.x?download=true},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{RN2170,
+   author = {Knapp, B. and Fischer, G. and Van Hemelen, D. and Fae, I. and Maillere, B. and Ebner, C. and Schreiner, W. and Bohle, B. and Jahn-Schmid, B.},
+   title = {Association of HLA-DR1 with the allergic response to the major mugwort pollen allergen: molecular background},
+   journal = {BMC Immunol},
+   volume = {13},
+   pages = {43},
+   note = {Knapp, Bernhard
+Fischer, Gottfried
+Van Hemelen, Dries
+Fae, Ingrid
+Maillere, Bernard
+Ebner, Christof
+Schreiner, Wolfgang
+Bohle, Barbara
+Jahn-Schmid, Beatrice
+2012/8/9},
+   abstract = {Mugwort pollen allergens represent the main cause of pollinosis in late summer. The major allergen, Art v 1, contains only one single immunodominant, solely HLA-DR-restricted T cell epitope (Art v 125-36). The frequency of HLA-DRB1*01 is highly increased in mugwort-allergic individuals and HLA-DR1 serves as restriction element for Art v 125-36. However, Art v 125-36 also binds to HLA-DR4 with high affinity and DR1-restricted Art v 125-36 -specific T cell receptors can be activated by HLA-DR4 molecules. To understand the predominance of HLA-DR1 in mugwort allergy in spite of the degeneracy in HLA/peptide-binding and TCR-recognition, we investigated the molecular background of Art v 125-36 /MHC/TCR interactions in the context of HLA-DR1 compared to -DR4.|The majority of Art v 125-36 -specific T cell lines and clones from HLA-DR1 carrying, mugwort pollen-allergic donors reacted to synthetic and naturally processed Art v 1-peptides when presented by HLA-DR1 or HLA-DR4 expressing antigen presenting cells. However, at limiting peptide concentrations DR1 was more effective in T cell stimulation. In addition, the minimal epitope for 50% of Art v 125-36 -specific T cells was shorter for DR1 than for DR4. In vitro binding assays of Art v 125-36 mutant peptides to isolated DR1- and DR4-molecules indicated similar binding capacities and use of the same register. In silico simulation of Art v 125-36 binding to HLA-DR1 and -DR4 suggested similar binding of the central part of the peptide to either molecule, but a higher flexibility of the N- and C-terminal amino acids and detachment at the C-terminus in HLA-DR1.|The predominance of HLA-DR1 in the response to Art v 125-36 may be explained by subtle conformation changes of the peptide bound to DR1 compared to DR4. Computer simulation supported our experimental data by demonstrating differences in peptide mobility within the HLA-DR complex that may influence TCR-binding. We suggest that the minor differences observed in vitro may be more relevant in the microenvironment in vivo, so that only presentation by HLA-DR1, but not -DR4 permits successful T cell activation.},
+   keywords = {Allergens
+Amino Acid Sequence
+Antigen Presentation
+Antigen-Presenting Cells
+Antigens, Plant
+Artemisia
+Computer Simulation
+Epitopes, T-Lymphocyte
+HLA-DR1 Antigen
+HLA-DR4 Antigen
+Humans
+Hypersensitivity
+Models, Molecular
+Molecular Sequence Data
+Mutation
+Peptides
+Plant Proteins
+Pollen
+Protein Binding},
+   ISSN = {1471-2172},
+   DOI = {10.1186/1471-2172-13-43},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/22871092},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN2165,
+   author = {Kostara, M. and Chondrou, V. and Sgourou, A. and Douros, K. and Tsabouri, S.},
+   title = {HLA Polymorphisms and Food Allergy Predisposition},
+   journal = {J Pediatr Genet},
+   volume = {9},
+   number = {2},
+   pages = {77-86},
+   note = {Kostara, Maria
+Chondrou, Vasiliki
+Sgourou, Argyro
+Douros, Konstantinos
+Tsabouri, Sophia
+2020/4/29},
+   abstract = {Food allergy (FA) is a growing health problem that affects ∼8% of the children worldwide. Although the prevalence of FA is increasing, the underlying genetic mechanisms responsible for the onset of this immune disorder are not yet clarified. Genetic factors seem to play a leading role in the development of FA, though interaction with environmental factors cannot be excluded. The broader network of genetic loci mediating the risk of this complex disorder remains to be identified. The human leucocyte antigen (HLA) has been associated with various immune disorders, including FA. This review aims to unravel the potential associations between HLA gene functions and the manifestation and outcome of FA disorders. Exploring new aspects of FA development with the perspective to improve our understanding of the multifaceted etiology and the complex biological mechanisms involved in FA is essential.},
+   keywords = {HLA system
+food allergy
+genetic predisposition},
+   ISSN = {2146-4596},
+   DOI = {10.1055/s-0040-1708521},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/32341809},
+   url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7183399/pdf/10-1055-s-0040-1708521.pdf},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN2239,
+   author = {Kutsuwada, Y. and Yokota, K. and Yoshida, K. and Tsuda, H. and Watanabe, K. and Matsumoto, A. and Iwamoto, S.},
+   title = {Association of HLA-DPB1, NLRP10, OVOL1, and ABCC11 with the axillary microbiome in a Japanese population},
+   journal = {J Dermatol Sci},
+   volume = {105},
+   number = {2},
+   pages = {98-104},
+   note = {Kutsuwada, Yukinobu
+Yokota, Kazuha
+Yoshida, Ken
+Tsuda, Hidetoshi
+Watanabe, Kazuhisa
+Matsumoto, Ayumi
+Iwamoto, Sadahiko
+eng
+Netherlands
+J Dermatol Sci. 2022 Feb;105(2):98-104. doi: 10.1016/j.jdermsci.2022.01.003. Epub 2022 Jan 7.},
+   abstract = {BACKGROUND: The distinct diversity of the human skin microbiome depends not only on the body site but also the individual. Host-commensal interactions have been described for the gut microbiome, but little is known about the epidermal microbiome. OBJECTIVE: The present study investigated whether genetic variants associated with skin traits affect the axillary microbiome. METHODS: Eight skin trait-related single nucleotide polymorphisms and HLA-A, -B, -C, and -DPB1 were genotyped in 186 Japanese males. From axillary swabs, the intensity of a representative axillary odor, trans (E) isomer of 3-methyl-2-hexenoic acid (E3M2H), was quantified with gas chromatography-tandem mass spectrometry analysis, the diversity of the axillary microbiome was evaluated with a 16 s rRNA metagenomic approach, and the association of these characteristics was assessed statistically. RESULTS: A risk allele for atopic dermatitis of rs878860 in NLRP10 and the allele for wet earwax of rs17822931 in ABCC11 decreased the relative abundance of Corynebacterium. Conversely, these alleles increased the relative abundance of Staphylococcus. Metagenomic analysis revealed that beta-diversity showed significant dissimilarity at the weighted Unifrac distance between minor allele carrier and non-carrier groups in HLA-DPB1*05:01, rs17822931, and rs878860. HLA-DPB1*04:01, HLA-DPB1*05:01, and rs17822931 were associated with E3M2H. CONCLUSIONS: We identified novel candidate loci associated with the axillary microbiome and malodor.},
+   keywords = {*ATP-Binding Cassette Transporters/genetics
+*Adaptor Proteins, Signal Transducing/genetics
+Alleles
+Apoptosis Regulatory Proteins/genetics
+DNA-Binding Proteins/genetics
+Gene Frequency
+*HLA-DP beta-Chains/genetics
+Humans
+Japan
+Male
+*Microbiota/genetics
+Skin/*microbiology
+*Transcription Factors/genetics
+Axillary odor
+E3m2h
+Metagenome
+Skin-trait associated genetic variants
+declare.},
+   ISSN = {1873-569X (Electronic)
+0923-1811 (Linking)},
+   DOI = {10.1016/j.jdermsci.2022.01.003},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/35078690},
+   url = {https://www.sciencedirect.com/science/article/pii/S0923181122000032?via%3Dihub},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN2197,
+   author = {Lemaître, Guillaume and Nogueira, Fernando and Aridas, Christos K},
+   title = {Imbalanced-learn: A python toolbox to tackle the curse of imbalanced datasets in machine learning},
+   journal = {The Journal of Machine Learning Research},
+   volume = {18},
+   number = {1},
+   pages = {559-563},
+   ISSN = {1532-4435},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN2192,
+   author = {Lenz, T. L. and Deutsch, A. J. and Han, B. and Hu, X. and Okada, Y. and Eyre, S. and Knapp, M. and Zhernakova, A. and Huizinga, T. W. and Abecasis, G. and Becker, J. and Boeckxstaens, G. E. and Chen, W. M. and Franke, A. and Gladman, D. D. and Gockel, I. and Gutierrez-Achury, J. and Martin, J. and Nair, R. P. and Nöthen, M. M. and Onengut-Gumuscu, S. and Rahman, P. and Rantapää-Dahlqvist, S. and Stuart, P. E. and Tsoi, L. C. and van Heel, D. A. and Worthington, J. and Wouters, M. M. and Klareskog, L. and Elder, J. T. and Gregersen, P. K. and Schumacher, J. and Rich, S. S. and Wijmenga, C. and Sunyaev, S. R. and de Bakker, P. I. and Raychaudhuri, S.},
+   title = {Widespread non-additive and interaction effects within HLA loci modulate the risk of autoimmune diseases},
+   journal = {Nat Genet},
+   volume = {47},
+   number = {9},
+   pages = {1085-90},
+   note = {Lenz, Tobias L
+Deutsch, Aaron J
+Han, Buhm
+Hu, Xinli
+Okada, Yukinori
+Eyre, Stephen
+Knapp, Michael
+Zhernakova, Alexandra
+Huizinga, Tom W J
+Abecasis, Gonçalo
+Becker, Jessica
+Boeckxstaens, Guy E
+Chen, Wei-Min
+Franke, Andre
+Gladman, Dafna D
+Gockel, Ines
+Gutierrez-Achury, Javier
+Martin, Javier
+Nair, Rajan P
+Nöthen, Markus M
+Onengut-Gumuscu, Suna
+Rahman, Proton
+Rantapää-Dahlqvist, Solbritt
+Stuart, Philip E
+Tsoi, Lam C
+van Heel, David A
+Worthington, Jane
+Wouters, Mira M
+Klareskog, Lars
+Elder, James T
+Gregersen, Peter K
+Schumacher, Johannes
+Rich, Stephen S
+Wijmenga, Cisca
+Sunyaev, Shamil R
+de Bakker, Paul I W
+Raychaudhuri, Soumya
+2015/8/11},
+   abstract = {Human leukocyte antigen (HLA) genes confer substantial risk for autoimmune diseases on a log-additive scale. Here we speculated that differences in autoantigen-binding repertoires between a heterozygote's two expressed HLA variants might result in additional non-additive risk effects. We tested the non-additive disease contributions of classical HLA alleles in patients and matched controls for five common autoimmune diseases: rheumatoid arthritis (ncases = 5,337), type 1 diabetes (T1D; ncases = 5,567), psoriasis vulgaris (ncases = 3,089), idiopathic achalasia (ncases = 727) and celiac disease (ncases = 11,115). In four of the five diseases, we observed highly significant, non-additive dominance effects (rheumatoid arthritis, P = 2.5 × 10(-12); T1D, P = 2.4 × 10(-10); psoriasis, P = 5.9 × 10(-6); celiac disease, P = 1.2 × 10(-87)). In three of these diseases, the non-additive dominance effects were explained by interactions between specific classical HLA alleles (rheumatoid arthritis, P = 1.8 × 10(-3); T1D, P = 8.6 × 10(-27); celiac disease, P = 6.0 × 10(-100)). These interactions generally increased disease risk and explained moderate but significant fractions of phenotypic variance (rheumatoid arthritis, 1.4%; T1D, 4.0%; celiac disease, 4.1%) beyond a simple additive model.},
+   keywords = {Autoimmune Diseases
+Case-Control Studies
+Epistasis, Genetic
+Genetic Association Studies
+Genetic Loci
+Genetic Predisposition to Disease
+HLA-C Antigens
+HLA-D Antigens
+Haplotypes
+Histocompatibility Antigens Class I
+Humans
+Polymorphism, Single Nucleotide
+Risk Factors},
+   ISSN = {1546-1718},
+   DOI = {10.1038/ng.3379},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/26258845},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN2180,
+   author = {Liu, X. and Zhang, S. and Tsai, H. J. and Hong, X. and Wang, B. and Fang, Y. and Liu, X. and Pongracic, J. A. and Wang, X.},
+   title = {Genetic and environmental contributions to allergen sensitization in a Chinese twin study},
+   journal = {Clin Exp Allergy},
+   volume = {39},
+   number = {7},
+   pages = {991-8},
+   note = {Liu, X
+Zhang, S
+Tsai, H-J
+Hong, X
+Wang, B
+Fang, Y
+Pongracic, J A
+Wang, X
+eng
+R01 HD049059-05/HD/NICHD NIH HHS/
+R01 HD.49059/HD/NICHD NIH HHS/
+R01 HL086461-01/HL/NHLBI NIH HHS/
+R01 HD049059-04/HD/NICHD NIH HHS/
+R01 HL 086419/HL/NHLBI NIH HHS/
+R01 HD049059-03/HD/NICHD NIH HHS/
+R01 AG032227-01A1/AG/NIA NIH HHS/
+R01 HD049059-01/HD/NICHD NIH HHS/
+R01 HD049059-02/HD/NICHD NIH HHS/
+R01 AG032227/AG/NIA NIH HHS/
+R01 HL086461/HL/NHLBI NIH HHS/
+R01 AG032227-02/AG/NIA NIH HHS/
+R01 HL086461-03/HL/NHLBI NIH HHS/
+R01 HD049059/HD/NICHD NIH HHS/
+R01 HL086461-02/HL/NHLBI NIH HHS/
+Research Support, N.I.H., Extramural
+Twin Study
+England
+Clin Exp Allergy. 2009 Jul;39(7):991-8. doi: 10.1111/j.1365-2222.2009.03228.x. Epub 2009 Mar 17.},
+   abstract = {BACKGROUND: Allergic disease is on the rise worldwide. Effective prevention of allergic disease requires comprehensive understanding of the factors that contribute to its intermediate phenotypes, such as sensitization to common allergens. OBJECTIVE: To estimate the degree of genetic and environmental contributions to sensitization to food and aeroallergens. METHODS: Sensitization was defined as a positive skin prick test to an allergen. We calculated the zygosity-specific concordance rates and odds ratios (ORs) for sensitization to food and aeroallergens in 826 Chinese twin pairs [472 monozygotic (MZ) and 354 dizygotic (DZ)] aged 12-28 years. We also applied structural equation modelling procedures to estimate genetic and environmental influences on sensitization. RESULTS: The concordance rates and risk of sensitization in one twin given the presence vs. the absence of sensitization in the other twin were higher in MZ twins than those in DZ twins. However, a large number of MZ twins were discordant in sensitization to common allergens. These observations suggest both genetic and environmental factors influence sensitization. Consistently, the estimated heritability and individual environmental components of the liability to sensitization ranged from 0.51 to 0.68 and 0.32 to 0.49, respectively, based on the best-fitted structural equation model. We also observed high phenotypic correlations between sensitization to two aeroallergens (cockroach and dust mite: 0.83) and two food allergens (peanut and shellfish: 0.58), but only moderate correlations for the pairs between sensitization to a food and an aeroallergen (0.31-0.46). The shared genetic and environmental factors between paired sensitizations contribute to the observed correlations. CONCLUSION: We demonstrated that sensitization to common food and aeroallergens were influenced by both genetic and environmental factors. Moreover, we found that paired allergen sensitizations might share some common sets of genes and environmental factors. This study underscores the need to further delineate unique and/or pleiotropic genetic and environmental factors for allergen sensitization.},
+   keywords = {Adolescent
+Adult
+Allergens/*genetics/immunology
+Animals
+Asian Continental Ancestry Group/*genetics
+Child
+China/epidemiology
+Cohort Studies
+*Environment
+Female
+Follow-Up Studies
+Food Hypersensitivity/epidemiology/etiology/genetics/immunology
+Humans
+Hypersensitivity/epidemiology/*etiology/*genetics/immunology
+Male
+Odds Ratio
+Phenotype
+Prospective Studies
+Risk Factors
+Sensitivity and Specificity
+Sex Characteristics
+Skin Tests
+Twins, Dizygotic/*genetics/immunology
+Twins, Monozygotic/*genetics/immunology
+Young Adult},
+   ISSN = {1365-2222 (Electronic)
+0954-7894 (Linking)},
+   DOI = {10.1111/j.1365-2222.2009.03228.x},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/19302247},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN2174,
+   author = {Madore, A. M. and Vaillancourt, V. T. and Asai, Y. and Alizadehfar, R. and Ben-Shoshan, M. and Michel, D. L. and Kozyrskyj, A. L. and Becker, A. and Chan-Yeung, M. and Clarke, A. E. and Hull, P. and Daley, D. and Sandford, A. J. and Laprise, C.},
+   title = {HLA-DQB1*02 and DQB1*06:03P are associated with peanut allergy},
+   journal = {Eur J Hum Genet},
+   volume = {21},
+   number = {10},
+   pages = {1181-4},
+   note = {Madore, Anne-Marie
+Vaillancourt, Vanessa T
+Asai, Yuka
+Alizadehfar, Reza
+Ben-Shoshan, Moshe
+Michel, Deborah L
+Kozyrskyj, Anita L
+Becker, Allan
+Chan-Yeung, Moira
+Clarke, Ann E
+Hull, Peter
+Daley, Denise
+Sandford, Andrew J
+Laprise, Catherine
+2013/2/28},
+   abstract = {Peanut allergy (PA) is a common and serious food allergy and its prevalence has increased in the past decade. Although there is strong evidence of inheritance, the genetic causes of this disease are not well understood. Previously, a large-scale genome-wide association study described an association between human leukocyte antigen (HLA)-DQB1 and asthma; the aim of this study was to evaluate the association between HLA-DQB1 and PA. Genotypic and allelic profiles were established for 311 Caucasian members of a well-described Canadian group of children with PA and 226 Caucasian controls. Firth's logistic regression analyses showed associations between HLA-DQB1 alleles and PA for DQB1*02 (P=1.1 × 10(-8), odds ratio (OR)=0.09 (CI=0.03-0.23)) and DQB1*06:03P alleles (P=2.1 × 10(-2), OR=2.82 (CI=1.48-5.45)). This study of HLA in PA demonstrates specific association between two allelic groups of the HLA-DQB1 gene (DQB1*02 and DQB1*06:03P) and PA, highlighting its possible role in the development of this disease.},
+   keywords = {Alleles
+Case-Control Studies
+Child, Preschool
+Female
+Genetic Association Studies
+HLA-DQ beta-Chains
+Humans
+Male
+Peanut Hypersensitivity},
+   ISSN = {1476-5438},
+   DOI = {10.1038/ejhg.2013.13},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/23443026},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN2232,
+   author = {Madore, A. M. and Vaillancourt, V. T. and Asai, Y. and Alizadehfar, R. and Ben-Shoshan, M. and Michel, D. L. and Kozyrskyj, A. L. and Becker, A. and Chan-Yeung, M. and Clarke, A. E. and Hull, P. and Daley, D. and Sandford, A. J. and Laprise, C.},
+   title = {HLA-DQB1*02 and DQB1*06:03P are associated with peanut allergy},
+   journal = {Eur J Hum Genet},
+   volume = {21},
+   number = {10},
+   pages = {1181-4},
+   note = {Madore, Anne-Marie
+Vaillancourt, Vanessa T
+Asai, Yuka
+Alizadehfar, Reza
+Ben-Shoshan, Moshe
+Michel, Deborah L
+Kozyrskyj, Anita L
+Becker, Allan
+Chan-Yeung, Moira
+Clarke, Ann E
+Hull, Peter
+Daley, Denise
+Sandford, Andrew J
+Laprise, Catherine
+eng
+Canadian Institutes of Health Research/Canada
+Research Support, Non-U.S. Gov't
+England
+Eur J Hum Genet. 2013 Oct;21(10):1181-4. doi: 10.1038/ejhg.2013.13. Epub 2013 Feb 27.},
+   abstract = {Peanut allergy (PA) is a common and serious food allergy and its prevalence has increased in the past decade. Although there is strong evidence of inheritance, the genetic causes of this disease are not well understood. Previously, a large-scale genome-wide association study described an association between human leukocyte antigen (HLA)-DQB1 and asthma; the aim of this study was to evaluate the association between HLA-DQB1 and PA. Genotypic and allelic profiles were established for 311 Caucasian members of a well-described Canadian group of children with PA and 226 Caucasian controls. Firth's logistic regression analyses showed associations between HLA-DQB1 alleles and PA for DQB1*02 (P=1.1 x 10(-8), odds ratio (OR)=0.09 (CI=0.03-0.23)) and DQB1*06:03P alleles (P=2.1 x 10(-2), OR=2.82 (CI=1.48-5.45)). This study of HLA in PA demonstrates specific association between two allelic groups of the HLA-DQB1 gene (DQB1*02 and DQB1*06:03P) and PA, highlighting its possible role in the development of this disease.},
+   keywords = {Alleles
+Case-Control Studies
+Child, Preschool
+Female
+Genetic Association Studies
+HLA-DQ beta-Chains/*genetics
+Humans
+Male
+Peanut Hypersensitivity/*genetics},
+   ISSN = {1476-5438 (Electronic)
+1018-4813 (Linking)},
+   DOI = {10.1038/ejhg.2013.13},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/23443026},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN2169,
+   author = {Mahdi, B. M. and Al-Hadithi, A. T. R. and Raouf, H. and Zalzala, H. H. and Abid, L. A. and Nehad, Z.},
+   title = {Effect of HLA on development of asthma},
+   journal = {Ann Med Surg (Lond)},
+   volume = {36},
+   pages = {118-121},
+   note = {Mahdi, Batool Mutar
+Al-Hadithi, Arwa Tahrir Ramadhan
+Raouf, Hyam
+Zalzala, Haider Hashim
+Abid, Laheeb Ali
+Nehad, Zena
+2018/11/21},
+   abstract = {Asthma is a disease characterized by a chronic inflammation of the airways caused by the interaction of genetic susceptibility with environmental factors. Inflammation and remodeling are critical components of asthma. It is shown that many genes are involved in the pathogenesis of asthma.|To identify/compare the association between HLA-DRB1 alleles and development of asthma in a sample of Iraqi Arab Muslims.|A case-control study (forty patients and forty healthy control) was carried out in Medical city Teaching Hospital, Baghdad-Iraq. The study participants were patients with asthma consulted the hospital from September - 2013 to January - 2015. HLA -DRB1genotyping was done using a panel of sequence-specific oligonucleotide probes (SSOP) using HLA-DRB1amplification and hybridization kits (SSO HLA type DRB1 plus and Mastermix for HLA type DRB1 Amp plus kits -Innogenetics-Belgium) using automated method by AutoLipa - 48Innogenetics-Belgum.|There was an increased frequency of HLADRB1*03:01:01 in control group compared with patients group (P = 0.009, Odds ratio = 0.1228, 95% CI: 0.0254-0.5930). Other allele like HLA-DRB1* 070101was significantly increased in asthmatic patients in compares with control group (P = 0.005, Odds ratio = 6.641, 95% CI: 1.7319-25.4657).|HLA alleles have an effect on development asthma in patients with HLA-DRB1*070101 while HLADRB1* 030101 may have a protective effect in Iraqi Arab Muslims individuals against development of asthma.},
+   keywords = {Asthma
+Genetic
+HLA},
+   ISSN = {2049-0801},
+   DOI = {10.1016/j.amsu.2018.10.003},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/30455876},
+   url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6230961/pdf/main.pdf},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN2168,
+   author = {Margolis, D. J. and Mitra, N. and Kim, B. and Gupta, J. and Hoffstad, O. J. and Papadopoulos, M. and Wubbenhorst, B. and Nathanson, K. L. and Duke, J. L. and Monos, D. S. and Kamoun, M.},
+   title = {Association of HLA-DRB1 genetic variants with the persistence of atopic dermatitis},
+   journal = {Hum Immunol},
+   volume = {76},
+   number = {8},
+   pages = {571-7},
+   note = {Margolis, David J
+Mitra, Nandita
+Kim, Brian
+Gupta, Jayanta
+Hoffstad, Ole J
+Papadopoulos, Maryte
+Wubbenhorst, Bradley
+Nathanson, Katherine L
+Duke, Jamie L
+Monos, Dimitri S
+Kamoun, Malek
+2015/8/27},
+   abstract = {Atopic dermatitis (AD) is a waxing and waning illness of childhood that is likely caused by interactions between an altered skin barrier and immune dysregulation. The goal of our study was to evaluate the association of DRB1 genetic variants and the persistence of AD using whole exome sequencing and high resolution typing. DRB1 was interrogated based on previous reports that utilized high throughput techniques. We evaluated an ongoing nation-wide long-term cohort of children with AD in which patients are asked every 6months about their medication use and their AD symptoms. In total, 87 African-American and 50 European-American children were evaluated. Genetic association analysis was performed using a software tool focusing on amino acid variable positions shared by HLA-DRB1 alleles covering the antigen presenting domain. Amino acid variations at position 9 (pocket 9), position 26, and position 78 (pocket 4) were marginally associated with the prevalence of AD. However, the odds ratio was 0.30 (0.14, 0.68; p=0.003) for residue 78, 0.27 (0.10, 0.69; p=0.006) for residue 26 and not significant for residue 9 with respect to the persistence of AD. In conclusion, amino acid variations at peptide-binding pockets of HLA-DRB1 were associated with the persistence of AD in African-American children.},
+   keywords = {Alleles
+Case-Control Studies
+Child, Preschool
+Cohort Studies
+Comorbidity
+Dermatitis, Atopic
+Exome
+Female
+Gene Frequency
+Genetic Association Studies
+Genetic Predisposition to Disease
+Genetic Variation
+Genotype
+HLA-DRB1 Chains
+High-Throughput Nucleotide Sequencing
+Humans
+Infant
+Infant, Newborn
+Male
+Odds Ratio
+Registries
+Atopic dermatitis
+HLA alleles},
+   ISSN = {1879-1166},
+   DOI = {10.1016/j.humimm.2015.08.003},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/26307177},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN2191,
+   author = {Martino, D. J. and Ashley, S. and Koplin, J. and Ellis, J. and Saffery, R. and Dharmage, S. C. and Gurrin, L. and Matheson, M. C. and Kalb, B. and Marenholz, I. and Beyer, K. and Lee, Y. A. and Hong, X. and Wang, X. and Vukcevic, D. and Motyer, A. and Leslie, S. and Allen, K. J. and Ferreira, M. A.},
+   title = {Genomewide association study of peanut allergy reproduces association with amino acid polymorphisms in HLA-DRB1},
+   journal = {Clin Exp Allergy},
+   volume = {47},
+   number = {2},
+   pages = {217-223},
+   note = {Martino, D J
+Ashley, S
+Koplin, J
+Ellis, J
+Saffery, R
+Dharmage, S C
+Gurrin, L
+Matheson, M C
+Kalb, B
+Marenholz, I
+Beyer, K
+Lee, Y-A
+Hong, X
+Wang, X
+Vukcevic, D
+Motyer, A
+Leslie, S
+Allen, K J
+Ferreira, M A R
+2016/11/25},
+   abstract = {Genetic variants for IgE-mediated peanut allergy are yet to be fully characterized and to date only one genomewide association study (GWAS) has been published.|To identify genetic variants associated with challenge-proven peanut allergy.|We carried out a GWAS comparing 73 infants with challenge-proven IgE-mediated peanut allergy against 148 non-allergic infants (all ~ 1 year old). We tested a total of 3.8 million single nucleotide polymorphisms, as well as imputed HLA alleles and amino acids. Replication was assessed by de novo genotyping in a panel of additional 117 cases and 380 controls, and in silico testing in two independent GWAS cohorts.|We identified 21 independent associations at P ≤ 5 × 10|Genetic determinants for challenge-proven peanut allergy include alleles at the HLA-DRB1 locus.},
+   keywords = {Alleles
+Amino Acid Substitution
+Genetic Predisposition to Disease
+Genome-Wide Association Study
+Genotype
+HLA-DRB1 Chains
+Humans
+Odds Ratio
+Peanut Hypersensitivity
+Polymorphism, Genetic
+Polymorphism, Single Nucleotide
+GWAS
+
+food allergy
+genetics
+hypersensitivity
+peanut allergy},
+   ISSN = {1365-2222},
+   DOI = {10.1111/cea.12863},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27883235},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN2205,
+   author = {McGuire, A. L. and Gabriel, S. and Tishkoff, S. A. and Wonkam, A. and Chakravarti, A. and Furlong, E. E. M. and Treutlein, B. and Meissner, A. and Chang, H. Y. and Lopez-Bigas, N. and Segal, E. and Kim, J. S.},
+   title = {The road ahead in genetics and genomics},
+   journal = {Nat Rev Genet},
+   volume = {21},
+   number = {10},
+   pages = {581-596},
+   note = {McGuire, Amy L
+Gabriel, Stacey
+Tishkoff, Sarah A
+Wonkam, Ambroise
+Chakravarti, Aravinda
+Furlong, Eileen E M
+Treutlein, Barbara
+Meissner, Alexander
+Chang, Howard Y
+Lopez-Bigas, Nuria
+Segal, Eran
+Kim, Jin-Soo
+eng
+RM1 HG007735/HG/NHGRI NIH HHS/
+U54 HG009790/HG/NHGRI NIH HHS/
+HHMI/Howard Hughes Medical Institute/
+R01 AR076241/AR/NIAMS NIH HHS/
+U24 HL135600/HL/NHLBI NIH HHS/
+P50 HG007735/HG/NHGRI NIH HHS/
+R37 HD028088/HD/NICHD NIH HHS/
+R35 GM134957/GM/NIGMS NIH HHS/
+U01 HG009716/HG/NHGRI NIH HHS/
+R35 CA209919/CA/NCI NIH HHS/
+WT_/Wellcome Trust/United Kingdom
+H3A/18/001/WT_/Wellcome Trust/United Kingdom
+U01 HG007459/HG/NHGRI NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Review
+England
+Nat Rev Genet. 2020 Oct;21(10):581-596. doi: 10.1038/s41576-020-0272-6. Epub 2020 Aug 24.},
+   abstract = {In celebration of the 20th anniversary of Nature Reviews Genetics, we asked 12 leading researchers to reflect on the key challenges and opportunities faced by the field of genetics and genomics. Keeping their particular research area in mind, they take stock of the current state of play and emphasize the work that remains to be done over the next few years so that, ultimately, the benefits of genetic and genomic research can be felt by everyone.},
+   keywords = {Disease/*genetics
+Genetics/*trends
+*Genome, Human
+*Genome-Wide Association Study
+Genomics/*trends
+Humans},
+   ISSN = {1471-0064 (Electronic)
+1471-0056 (Linking)},
+   DOI = {10.1038/s41576-020-0272-6},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/32839576},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN2177,
+   author = {Miller, M. E. and Levin, L. and Bernstein, J. A.},
+   title = {Characterization of a population of monozygotic twins with asthma},
+   journal = {J Asthma},
+   volume = {42},
+   number = {5},
+   pages = {325-30},
+   note = {Miller, Maureen E
+Levin, Linda
+Bernstein, Jonathan A
+eng
+England
+J Asthma. 2005 Jun;42(5):325-30. doi: 10.1081/JAS-63005.},
+   abstract = {BACKGROUND: Asthma is a complex inflammatory lung disease that results from allergic and nonallergic environmental exposures in genetically susceptible individuals. The interrelationship and impact of environmental and genetic determinants on the development of asthma is still unclear. Monozygotic twins (MZT) have been considered a potentially useful population to investigate the role of genetic and environmental factors on asthma because of their identical genetic background, similar childhood environmental exposures, and expected high concordance rate for asthma. METHODS: A detailed questionnaire designed to obtain demographic information, medical history/severity of asthma, and environmental exposures was distributed to 43 pairs of MZT pairs where one or both probands had a history of asthma. All twin pairs were clinically evaluated for atopy by skin testing. Asthma was assessed by questionnaire, baseline spirometry, disease severity, airway reactivity, and medication scores. RESULTS: Based on a history of physician-diagnosed asthma, disease severity, airway reactivity, and medication scores, 22 MZT pairs were identified as concordant (C) for asthma while 21 MZT pairs were discordant (D) for asthma. Those MZT-C for asthma were on average older and more often female. Adjusted odds ratios for age and gender revealed that MZT-C for asthma had a 2.3 greater likelihood of childhood tobacco exposure and a 1.8 greater likelihood of early exposure to a pet compared to MZT-D pairs. In addition, MZT-C for asthma had a 2.4 greater likelihood of being full term vs. premature at birth. None of these odds ratios were statistically significant due to a small sample size. However, a trend for a greater likelihood of earlier environmental exposures was observed for MZT-C asthma pairs. Among MZT-D probands, a history of asthma in one proband was supported by a lower FEV1 and higher airway reactivity, disease severity, asthma symptom, and medication scores compared to the nonasthma proband. There was significant intrapair heterogeneity among MZT-C and MZT-D probands in their positive skin test responses to specific aeroallergens. CONCLUSION: Cross-sectional evaluation of larger MZT populations where one or both proband has asthma with a long-term prospective follow-up may be a feasible way for identifying the impact of environmental determinants as independent risk factors for the development of asthma.},
+   keywords = {Adolescent
+Adult
+Aged
+Animals
+Animals, Domestic
+Asthma/etiology/*physiopathology
+Bronchial Hyperreactivity/etiology/physiopathology
+Child
+Child, Preschool
+Cross-Sectional Studies
+Diseases in Twins/*physiopathology
+Environmental Exposure
+Female
+Forced Expiratory Volume
+Humans
+Hypersensitivity/complications
+Infant
+Male
+Middle Aged
+Severity of Illness Index
+Smoke
+Surveys and Questionnaires
+Tobacco
+*Twins, Monozygotic},
+   ISSN = {0277-0903 (Print)
+0277-0903 (Linking)},
+   DOI = {10.1081/JAS-63005},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/16036407},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN2157,
+   author = {Misra, M. K. and Damotte, V. and Hollenbach, J. A.},
+   title = {Structure-based selection of human metabolite binding P4 pocket of DRB1*15:01 and DRB1*15:03, with implications for multiple sclerosis},
+   journal = {Genes Immun},
+   volume = {20},
+   number = {1},
+   pages = {46-55},
+   note = {Misra, Maneesh K
+Damotte, Vincent
+Hollenbach, Jill A
+eng
+R01 AI128775/AI/NIAID NIH HHS/
+R01 NS102153/NS/NINDS NIH HHS/
+U19 NS095774/NS/NINDS NIH HHS/
+Research Support, N.I.H., Extramural
+England
+Genes Immun. 2019 Jan;20(1):46-55. doi: 10.1038/s41435-017-0009-5. Epub 2018 Jan 20.},
+   abstract = {Binding of small molecules in the human leukocyte antigen (HLA) peptide-binding groove may result in conformational changes of bound peptide and an altered immune response, but previous studies have not considered a potential role for endogenous metabolites. We performed virtual screening of the complete Human Metabolite Database (HMDB) for docking to the multiple sclerosis (MS) susceptible DRB1*15:01 allele and compared the results to the closely related yet non-susceptible DRB1*15:03 allele; and assessed the potential impact on binding of human myelin basic peptide (MBP). We observed higher energy scores for metabolite binding to DRB1*15:01 than DRB1*15:03. Structural comparison of docked metabolites with DRB1*15:01 and DRB1*15:03 complexed with MBP revealed that Phenylalanine(MBP92) allows binding of metabolites in the P4 pocket of DRB1*15:01 but Valine(MBP89) abrogates metabolite binding in the P1 pocket. We observed differences in the energy scores for binding of metabolites in the P4 pockets of DRB1*15:01 vs. DRB1*15:03 suggesting stronger binding to DRB1*15:01. Our study confirmed that specific, disease-associated human metabolites bind effectively with the most polymorphic P4 pocket of DRB1*15:01, the primary MS susceptible allele in most populations. Our results suggest that endogenous human metabolites bound in specific pockets of HLA may be immunomodulatory and implicated in autoimmune disease.},
+   keywords = {*Alleles
+Binding Sites
+HLA-DRB1 Chains/*chemistry/genetics/metabolism
+Humans
+*Molecular Docking Simulation
+Multiple Sclerosis/*genetics
+Myelin Basic Protein/metabolism
+Protein Binding},
+   ISSN = {1476-5470 (Electronic)
+1466-4879 (Linking)},
+   DOI = {10.1038/s41435-017-0009-5},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/29362509},
+   url = {https://www.nature.com/articles/s41435-017-0009-5.pdf},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN2158,
+   author = {Monaco, D. R. and Sie, B. M. and Nirschl, T. R. and Knight, A. C. and Sampson, H. A. and Nowak-Wegrzyn, A. and Wood, R. A. and Hamilton, R. G. and Frischmeyer-Guerrerio, P. A. and Larman, H. B.},
+   title = {Profiling serum antibodies with a pan allergen phage library identifies key wheat allergy epitopes},
+   journal = {Nat Commun},
+   volume = {12},
+   number = {1},
+   pages = {379},
+   note = {Monaco, Daniel R
+Sie, Brandon M
+Nirschl, Thomas R
+Knight, Audrey C
+Sampson, Hugh A
+Nowak-Wegrzyn, Anna
+Wood, Robert A
+Hamilton, Robert G
+Frischmeyer-Guerrerio, Pamela A
+Larman, H Benjamin
+eng
+U24 AI118633/AI/NIAID NIH HHS/
+R01 GM136724/GM/NIGMS NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, N.I.H., Intramural
+England
+Nat Commun. 2021 Jan 22;12(1):379. doi: 10.1038/s41467-020-20622-1.},
+   abstract = {Allergic reactions occur when IgE molecules become crosslinked by antigens such as food proteins. Here we create the 'AllerScan' programmable phage display system to characterize the binding specificities of anti-allergen IgG and IgE antibodies in serum against thousands of allergenic proteins from hundreds of organisms at peptide resolution. Using AllerScan, we identify robust anti-wheat IgE reactivities in wheat allergic individuals but not in wheat-sensitized individuals. Meanwhile, a key wheat epitope in alpha purothionin elicits dominant IgE responses among allergic patients, and frequent IgG responses among sensitized and non-allergic patients. A double-blind, placebo-controlled trial shows that alpha purothionin reactivity, among others, is strongly modulated by oral immunotherapy in tolerized individuals. AllerScan may thus serve as a high-throughput platform for unbiased analysis of anti-allergen antibody specificities.},
+   keywords = {Adolescent
+Adult
+Allergens/genetics/*immunology
+Antibodies/blood/*immunology
+Antimicrobial Cationic Peptides/immunology
+Child
+Child, Preschool
+Epitopes/*immunology
+Female
+Humans
+Hypersensitivity/immunology
+Immunoglobulin E/blood/immunology
+Immunoglobulin G/blood/immunology
+Male
+Middle Aged
+*Peptide Library
+Plant Proteins/immunology
+Wheat Hypersensitivity/*immunology
+Young Adult},
+   ISSN = {2041-1723 (Electronic)
+2041-1723 (Linking)},
+   DOI = {10.1038/s41467-020-20622-1},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/33483508},
+   url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7822912/pdf/41467_2020_Article_20622.pdf},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN2210,
+   author = {Mukai, K. and Tsai, M. and Starkl, P. and Marichal, T. and Galli, S. J.},
+   title = {IgE and mast cells in host defense against parasites and venoms},
+   journal = {Semin Immunopathol},
+   volume = {38},
+   number = {5},
+   pages = {581-603},
+   note = {Mukai, Kaori
+Tsai, Mindy
+Starkl, Philipp
+Marichal, Thomas
+Galli, Stephen J
+eng
+R01 AR067145/AR/NIAMS NIH HHS/
+R01 CA072074/CA/NCI NIH HHS/
+R37 AI023990/AI/NIAID NIH HHS/
+U19 AI104209/AI/NIAID NIH HHS/
+Review
+Research Support, Non-U.S. Gov't
+Research Support, N.I.H., Extramural
+Research Support, U.S. Gov't, Non-P.H.S.
+Germany
+Semin Immunopathol. 2016 Sep;38(5):581-603. doi: 10.1007/s00281-016-0565-1. Epub 2016 May 25.},
+   abstract = {IgE-dependent mast cell activation is a major effector mechanism underlying the pathology associated with allergic disorders. The most dramatic of these IgE-associated disorders is the fatal anaphylaxis which can occur in some people who have developed IgE antibodies to otherwise innocuous antigens, such as those contained in certain foods and medicines. Why would such a highly "maladaptive" immune response develop in evolution and be retained to the present day? Host defense against parasites has long been considered the only beneficial function that might be conferred by IgE and mast cells. However, recent studies have provided evidence that, in addition to participating in host resistance to certain parasites, mast cells and IgE are critical components of innate (mast cells) and adaptive (mast cells and IgE) immune responses that can enhance host defense against the toxicity of certain arthropod and animal venoms, including enhancing the survival of mice injected with such venoms. Yet, in some people, developing IgE antibodies to insect or snake venoms puts them at risk for having a potentially fatal anaphylactic reaction upon subsequent exposure to such venoms. Delineating the mechanisms underlying beneficial versus detrimental innate and adaptive immune responses associated with mast cell activation and IgE is likely to enhance our ability to identify potential therapeutic targets in such settings, not only for reducing the pathology associated with allergic disorders but perhaps also for enhancing immune protection against pathogens and animal venoms.},
+   keywords = {Anaphylaxis/immunology/metabolism
+Animals
+Disease Resistance/immunology
+Helminthiasis/immunology/metabolism/parasitology
+Helminths/immunology
+Host-Parasite Interactions/*immunology
+Humans
+Hypersensitivity/immunology/metabolism
+*Immunity, Innate
+Immunoglobulin E/*immunology
+Intestinal Diseases, Parasitic/immunology/metabolism
+Mast Cells/*immunology/*metabolism
+Parasites/immunology
+Parasitic Diseases/immunology/transmission
+Th2 Cells/immunology/metabolism
+Venoms/*immunology
+*Allergy
+*Anaphylaxis
+*Parasites
+*Serine proteases
+*Toxins
+*Venoms},
+   ISSN = {1863-2300 (Electronic)
+1863-2297 (Linking)},
+   DOI = {10.1007/s00281-016-0565-1},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27225312},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN2162,
+   author = {Munthe-Kaas, M. C. and Carlsen, K. L. and Carlsen, K. H. and Egeland, T. and Haland, G. and Devulapalli, C. S. and Akselsen, H. and Undlien, D.},
+   title = {HLA Dr-Dq haplotypes and the TNFA-308 polymorphism: associations with asthma and allergy},
+   journal = {Allergy},
+   volume = {62},
+   number = {9},
+   pages = {991-8},
+   note = {Munthe-Kaas, M C
+Carlsen, K L
+Carlsen, K H
+Egeland, T
+Haland, G
+Devulapalli, C S
+Akselsen, H
+Undlien, D
+eng
+Research Support, Non-U.S. Gov't
+Denmark
+Allergy. 2007 Sep;62(9):991-8. doi: 10.1111/j.1398-9995.2007.01377.x.},
+   abstract = {BACKGROUND: The HLA (human leukocyte antigen) class II genes DQB1 and DRB1 and the Tumor Necrosis Factor alpha gene (TNFA) within the HLA complex (chromosome 6p21) have been associated with asthma and allergy. Due to the strong linkage disequilibrium characterizing this complex and the multiple asthma/allergy expressions, we aimed to determine which of these genes were primarily involved in specific asthma/allergy traits. METHODS: The DRB1-DQB1 alleles and TNFA-308 polymorphism were genotyped in 959 children from the Environment and Childhood Asthma study and analyzed for possible associations with allergic and non-allergic asthma (with/without at least one positive skin prick test for allergens) and specific allergic sensitization, as well as bronchial hyperresponsiveness and total IgE, using both allele and extended haplotype analyses. RESULTS: Different genes within the HLA complex were associated with separate asthma and allergy traits. Nonallergic asthma was associated with both the TNFA-308A allele [Odds ratio (OR) 1.7 (1.3-2.3)] and DRB1 03 allele [OR 1.6(1-2.6)], but extended DRB1 03-TNFA-308 haplotype analysis suggested that the DRB1-DQB1 association was secondary to linkage disequilibrium with the TNFA-308 polymorphism. Allergies were associated with HLA class II alleles only; birch sensitization with DQB1 0603-DRB1 13 [OR 2.3 (1.4-4.0)] and mugwort sensitization with DQB1 0609-DRB1 13 [OR 7.1 (1.9-27.0)] and DQB1 0501-DRB1 01 [OR 2.0 (1.0-4.0)]. CONCLUSIONS: Our data suggests that asthma is not associated with DRB1 or DQB1 but rather TNFA or a gene(s) in linkage disequilibrium, while sensitization to specific allergens is associated with particular alleles at the DQ and/or DR loci. A novel association between DQB1 0603-DRB1 13 and birch allergy is identified.},
+   keywords = {Adolescent
+Asthma/epidemiology/*genetics
+Child
+Female
+HLA-DQ Antigens/*genetics
+HLA-DQ beta-Chains
+HLA-DR Antigens/*genetics
+HLA-DRB1 Chains
+Haplotypes
+Humans
+Hypersensitivity/epidemiology/*genetics
+Linkage Disequilibrium
+Male
+Membrane Glycoproteins/*genetics
+Norway/epidemiology
+Polymorphism, Genetic
+Tumor Necrosis Factor-alpha/*genetics},
+   ISSN = {0105-4538 (Print)
+0105-4538 (Linking)},
+   DOI = {10.1111/j.1398-9995.2007.01377.x},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/17686102},
+   url = {https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1398-9995.2007.01377.x?download=true},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN2190,
+   author = {Nucera, E. and Valentini, M. and Mezzacappa, S. and Migliara, G. and Chini, R. and Rizzi, A. and Aruanno, A. and Ria, F.},
+   title = {HLA-DRB1 haplotype associates with selection of lipid transfer protein variants as targets of food allergy},
+   journal = {J Biol Regul Homeost Agents},
+   volume = {33},
+   number = {4},
+   pages = {1293-1298},
+   note = {Nucera, E
+Valentini, M
+Mezzacappa, S
+Migliara, G
+Chini, R
+Rizzi, A
+Aruanno, A
+Ria, F
+2020/2/29},
+   keywords = {Carrier Proteins
+Food Hypersensitivity
+Genetic Predisposition to Disease
+HLA-DRB1 Chains
+Haplotypes
+Humans
+HLA
+food allergy
+genetics
+lipid transfer protein
+panallergens},
+   ISSN = {0393-974X},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/32107908},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN2175,
+   author = {Posa, D. and Perna, S. and Resch, Y. and Lupinek, C. and Panetta, V. and Hofmaier, S. and Rohrbach, A. and Hatzler, L. and Grabenhenrich, L. and Tsilochristou, O. and Chen, K. W. and Bauer, C. P. and Hoffman, U. and Forster, J. and Zepp, F. and Schuster, A. and Wahn, U. and Keil, T. and Lau, S. and Vrtala, S. and Valenta, R. and Matricardi, P. M.},
+   title = {Evolution and predictive value of IgE responses toward a comprehensive panel of house dust mite allergens during the first 2 decades of life},
+   journal = {J Allergy Clin Immunol},
+   volume = {139},
+   number = {2},
+   pages = {541-549.e8},
+   note = {Posa, Daniela
+Perna, Serena
+Resch, Yvonne
+Lupinek, Christian
+Panetta, Valentina
+Hofmaier, Stephanie
+Rohrbach, Alexander
+Hatzler, Laura
+Grabenhenrich, Linus
+Tsilochristou, Olympia
+Chen, Kuan-Wei
+Bauer, Carl-Peter
+Hoffman, Ute
+Forster, Johannes
+Zepp, Fred
+Schuster, Antje
+Wahn, Ulrich
+Keil, Thomas
+Lau, Susanne
+Vrtala, Susanne
+Valenta, Rudolf
+Matricardi, Paolo Maria
+2016/10/30},
+   abstract = {The evolution of the IgE response to the numerous allergen molecules of Dermatophagoides pteronyssinus is still unknown.|We sought to characterize the evolutionary patterns of the IgE response to 12 molecules of D pteronyssinus from birth to adulthood and to investigate their determinants and clinical relevance.|We investigated the clinical data and sera of 722 participants in the German Multicenter Allergy Study, a birth cohort started in 1990. Diagnoses of current allergic rhinitis (AR) related to mite allergy and asthma were based on yearly interviews at the ages of 1 to 13 years and 20 years. IgE to the extract and 12 molecules of D pteronyssinus were tested by means of ImmunoCAP and microarray technology, respectively, in sera collected at ages 1, 2, 3, 5, 6, 7, 10, 13, and 20 years. Exposure to mites at age 6 and 18 months was assessed by measuring Der p 1 weight/weight concentration in house dust.|One hundred ninety-one (26.5%) of 722 participants ever had IgE to D pteronyssinus extract (≥0.35 kU|Parental hay fever and early exposure to D pteronyssinus allergens promote IgE polysensitization to several D pteronyssinus molecules, which in turn predicts current mite-related AR and current/future asthma. These results might inspire predictive algorithms and prevention strategies against the progression of IgE sensitization to mites toward AR and asthma.},
+   keywords = {Adolescent
+Adult
+Age of Onset
+Animals
+Antigens, Dermatophagoides
+Asthma
+Child
+Child, Preschool
+Cohort Studies
+Cross Reactions
+Female
+Follow-Up Studies
+Germany
+Humans
+Immunoglobulin E
+Infant
+Infant, Newborn
+Male
+Predictive Value of Tests
+Prevalence
+Prognosis
+Pyroglyphidae
+Rhinitis, Allergic
+Risk Factors
+Young Adult
+Dermatophagoides pteronyssinus
+House dust mite allergy
+IgE
+allergic rhinitis
+asthma
+birth cohort
+children
+component-resolved diagnostics
+microarray
+prediction
+recombinant allergens},
+   ISSN = {1097-6825},
+   DOI = {10.1016/j.jaci.2016.08.014},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27793411},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN2161,
+   author = {Ramasamy, A. and Curjuric, I. and Coin, L. J. and Kumar, A. and McArdle, W. L. and Imboden, M. and Leynaert, B. and Kogevinas, M. and Schmid-Grendelmeier, P. and Pekkanen, J. and Wjst, M. and Bircher, A. J. and Sovio, U. and Rochat, T. and Hartikainen, A. L. and Balding, D. J. and Jarvelin, M. R. and Probst-Hensch, N. and Strachan, D. P. and Jarvis, D. L.},
+   title = {A genome-wide meta-analysis of genetic variants associated with allergic rhinitis and grass sensitization and their interaction with birth order},
+   journal = {J Allergy Clin Immunol},
+   volume = {128},
+   number = {5},
+   pages = {996-1005},
+   note = {Ramasamy, Adaikalavan
+Curjuric, Ivan
+Coin, Lachlan J
+Kumar, Ashish
+McArdle, Wendy L
+Imboden, Medea
+Leynaert, Benedicte
+Kogevinas, Manolis
+Schmid-Grendelmeier, Peter
+Pekkanen, Juha
+Wjst, Matthias
+Bircher, Andreas J
+Sovio, Ulla
+Rochat, Thierry
+Hartikainen, Anna-Liisa
+Balding, David J
+Jarvelin, Marjo-Riitta
+Probst-Hensch, Nicole
+Strachan, David P
+Jarvis, Deborah L
+eng
+G0000934/Medical Research Council/United Kingdom
+G1001799/Medical Research Council/United Kingdom
+G0500539/Medical Research Council/United Kingdom
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+J Allergy Clin Immunol. 2011 Nov;128(5):996-1005. doi: 10.1016/j.jaci.2011.08.030.},
+   abstract = {BACKGROUND: Hay fever or seasonal allergic rhinitis (AR) is a chronic disorder associated with IgE sensitization to grass. The underlying genetic variants have not been studied comprehensively. There is overwhelming evidence that those who have older siblings have less AR, although the mechanism for this remains unclear. OBJECTIVE: We sought to identify common genetic variant associations with prevalent AR and grass sensitization using existing genome-wide association study (GWAS) data and to determine whether genetic variants modify the protective effect of older siblings. METHOD: Approximately 2.2 million genotyped or imputed single nucleotide polymorphisms were investigated in 4 large European adult cohorts for AR (3,933 self-reported cases vs 8,965 control subjects) and grass sensitization (2,315 cases vs 10,032 control subjects). RESULTS: Three loci reached genome-wide significance for either phenotype. The HLA variant rs7775228, which cis-regulates HLA-DRB4, was strongly associated with grass sensitization and weakly with AR (P(grass) = 1.6 x 10(-9); P(AR) = 8.0 x 10(-3)). Variants in a locus near chromosome 11 open reading frame 30 (C11orf30) and leucine-rich repeat containing 32 (LRRC32), which was previously associated with atopic dermatitis and eczema, were also strongly associated with both phenotypes (rs2155219; P(grass) = 9.4 x 10(-9); P(AR) = 3.8 x 10(-8)). The third genome-wide significant variant was rs17513503 (P(grass) = 1.2 x 10(-8); PAR = 7.4 x 10(-7)) which was located near transmembrane protein 232 (TMEM232) and solute carrier family 25, member 46 (SLC25A46). Twelve further loci with suggestive associations were also identified. Using a candidate gene approach, where we considered variants within 164 genes previously thought to be important, we found variants in 3 further genes that may be of interest: thymic stromal lymphopoietin (TSLP), Toll-like receptor 6 (TLR6) and nucleotide-binding oligomerization domain containing 1 (NOD1/CARD4). We found no evidence for variants that modified the effect of birth order on either phenotype. CONCLUSIONS: This relatively large meta-analysis of GWASs identified few loci associated with AR and grass sensitization. No birth order interaction was identified in the current analyses.},
+   keywords = {Adult
+*Birth Order
+Female
+Genetic Predisposition to Disease/*genetics
+*Genome-Wide Association Study
+Genotype
+Humans
+Male
+Poaceae/immunology
+*Polymorphism, Single Nucleotide
+Rhinitis, Allergic, Seasonal/*genetics},
+   ISSN = {1097-6825 (Electronic)
+0091-6749 (Linking)},
+   DOI = {10.1016/j.jaci.2011.08.030},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/22036096},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN2195,
+   author = {Sasada, Taisho and Liu, Zhaoyu and Baba, Tokiya and Hatano, Kenji and Kimura, Yusuke},
+   title = {A Resampling Method for Imbalanced Datasets Considering Noise and Overlap},
+   journal = {Procedia Computer Science},
+   volume = {176},
+   pages = {420-429},
+   ISSN = {1877-0509},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN2242,
+   author = {Savage, S. A. and Viard, M. and O'HUigin, C. and Zhou, W. and Yeager, M. and Li, S. A. and Wang, T. and Ramsuran, V. and Vince, N. and Vogt, A. and Hicks, B. and Burdett, L. and Chung, C. and Dean, M. and de Andrade, K. C. and Freedman, N. D. and Berndt, S. I. and Rothman, N. and Lan, Q. and Cerhan, J. R. and Slager, S. L. and Zhang, Y. and Teras, L. R. and Haagenson, M. and Chanock, S. J. and Spellman, S. R. and Wang, Y. and Willis, A. and Askar, M. and Lee, S. J. and Carrington, M. and Gadalla, S. M.},
+   title = {Genome-wide Association Study Identifies HLA-DPB1 as a Significant Risk Factor for Severe Aplastic Anemia},
+   journal = {Am J Hum Genet},
+   volume = {106},
+   number = {2},
+   pages = {264-271},
+   note = {Savage, Sharon A
+Viard, Mathias
+O'hUigin, Colm
+Zhou, Weiyin
+Yeager, Meredith
+Li, Shengchao Alfred
+Wang, Tao
+Ramsuran, Veron
+Vince, Nicolas
+Vogt, Aurelie
+Hicks, Belynda
+Burdett, Laurie
+Chung, Charles
+Dean, Michael
+de Andrade, Kelvin C
+Freedman, Neal D
+Berndt, Sonja I
+Rothman, Nathaniel
+Lan, Qing
+Cerhan, James R
+Slager, Susan L
+Zhang, Yawei
+Teras, Lauren R
+Haagenson, Michael
+Chanock, Stephen J
+Spellman, Stephen R
+Wang, Youjin
+Willis, Amanda
+Askar, Medhat
+Lee, Stephanie J
+Carrington, Mary
+Gadalla, Shahinaz M
+eng
+U10 HL069294/HL/NHLBI NIH HHS/
+N01 PC067009/CN/NCI NIH HHS/
+N01 PC067010/PC/NCI NIH HHS/
+R21 CA165923/CA/NCI NIH HHS/
+UL1 TR001863/TR/NCATS NIH HHS/
+U24 CA076518/CA/NCI NIH HHS/
+N01 PC067008/PC/NCI NIH HHS/
+R01 CA062006/CA/NCI NIH HHS/
+N01 PC065064/PC/NCI NIH HHS/
+R01 CA092153/CA/NCI NIH HHS/
+P50 CA097274/CA/NCI NIH HHS/
+HHSN261200800001C/RC/CCR NIH HHS/
+HHSN261200800001E/CA/NCI NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, N.I.H., Intramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, P.H.S.
+Am J Hum Genet. 2020 Feb 6;106(2):264-271. doi: 10.1016/j.ajhg.2020.01.004. Epub 2020 Jan 30.},
+   abstract = {Severe aplastic anemia (SAA) is a rare disorder characterized by hypoplastic bone marrow and progressive pancytopenia. The etiology of acquired SAA is not understood but is likely related to abnormal immune responses and environmental exposures. We conducted a genome-wide association study of individuals with SAA genetically matched to healthy controls in discovery (359 cases, 1,396 controls) and validation sets (175 cases, 1,059 controls). Combined analyses identified linked SNPs in distinct blocks within the major histocompatibility complex on 6p21. The top SNP encodes p.Met76Val in the P4 binding pocket of the HLA class II gene HLA-DPB1 (rs1042151A>G, odds ratio [OR] 1.75, 95% confidence interval [CI] 1.50-2.03, p = 1.94 x 10(-13)) and was associated with HLA-DP cell surface expression in healthy individuals (p = 2.04 x 10(-6)). Phylogenetic analyses indicate that Val76 is not monophyletic and likely occurs in conjunction with different HLA-DP binding groove conformations. Imputation of HLA-DPB1 alleles revealed increased risk of SAA associated with Val76-encoding alleles DPB1( *)03:01, (OR 1.66, p = 1.52 x 10(-7)), DPB1( *)10:01 (OR 2.12, p = 0.0003), and DPB1( *)01:01 (OR 1.60, p = 0.0008). A second SNP near HLA-B, rs28367832G>A, reached genome-wide significance (OR 1.49, 95% CI 1.22-1.78, p = 7.27 x 10(-9)) in combined analyses; the association remained significant after excluding cases with clonal copy-neutral loss-of-heterozygosity affecting class I HLA genes (8.6% of cases and 0% of controls). SNPs in the HLA class II gene HLA-DPB1 and possibly class I (HLA-B) are associated with SAA. The replacement of Met76 to Val76 in certain HLA-DPB1 alleles might influence risk of SAA through mechanisms involving DP peptide binding specificity, expression, and/or other factors affecting DP function.},
+   keywords = {Adolescent
+Adult
+Aged
+Anemia, Aplastic/*etiology/pathology
+Case-Control Studies
+Child
+Child, Preschool
+Female
+*Genetic Markers
+*Genetic Predisposition to Disease
+Genome-Wide Association Study
+Genotype
+HLA-DP beta-Chains/*genetics
+Humans
+Infant
+Male
+Middle Aged
+Phylogeny
+*Polymorphism, Single Nucleotide
+Risk Factors
+Severity of Illness Index
+Young Adult
+*gwas
+*hla
+*hla-dp
+*aplastic anemia
+*bone marrow failure
+*etiology
+*genome-wide association study
+*hematpoietic cell transplantation},
+   ISSN = {1537-6605 (Electronic)
+0002-9297 (Linking)},
+   DOI = {10.1016/j.ajhg.2020.01.004},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/32004448},
+   url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010969/pdf/main.pdf},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN2202,
+   author = {Stone, K. D. and Prussin, C. and Metcalfe, D. D.},
+   title = {IgE, mast cells, basophils, and eosinophils},
+   journal = {J Allergy Clin Immunol},
+   volume = {125},
+   number = {2 Suppl 2},
+   pages = {S73-80},
+   note = {Stone, Kelly D
+Prussin, Calman
+Metcalfe, Dean D
+eng
+ZIA AI000951-05/ImNIH/Intramural NIH HHS/
+Research Support, N.I.H., Intramural
+Review
+J Allergy Clin Immunol. 2010 Feb;125(2 Suppl 2):S73-80. doi: 10.1016/j.jaci.2009.11.017.},
+   abstract = {IgE, mast cells, basophils, and eosinophils are essential components of allergic inflammation. Antigen-specific IgE production, with subsequent fixation of IgE to FcepsilonRI receptors on mast cells and basophils, is central to the initiation and propagation of immediate hypersensitivity reactions. Mast cells, basophils, and eosinophils are central effector cells in allergic inflammation, as well as in innate and adaptive immunity. This review highlights what is known about these components and their roles in disease pathogenesis.},
+   keywords = {Animals
+Antibodies, Anti-Idiotypic
+Antibodies, Monoclonal/therapeutic use
+Antibodies, Monoclonal, Humanized
+Basophils/*immunology/*metabolism/pathology
+Biomarkers/metabolism
+Cell Degranulation
+Cell Differentiation
+Cell Movement
+Cytokines/metabolism
+Eosinophils/*immunology/*metabolism/pathology
+Humans
+Hypersensitivity, Immediate/blood/diagnosis/*immunology/therapy
+Immunoglobulin E/immunology/*metabolism
+Mast Cells/*immunology/*metabolism/pathology
+Omalizumab
+Receptors, IgE/immunology
+Tryptases/blood},
+   ISSN = {1097-6825 (Electronic)
+0091-6749 (Linking)},
+   DOI = {10.1016/j.jaci.2009.11.017},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/20176269},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN2213,
+   author = {Tollefsen, S. and Hotta, K. and Chen, X. and Simonsen, B. and Swaminathan, K. and Mathews, II and Sollid, L. M. and Kim, C. Y.},
+   title = {Structural and functional studies of trans-encoded HLA-DQ2.3 (DQA1*03:01/DQB1*02:01) protein molecule},
+   journal = {J Biol Chem},
+   volume = {287},
+   number = {17},
+   pages = {13611-9},
+   note = {Tollefsen, Stig
+Hotta, Kinya
+Chen, Xi
+Simonsen, Bjorg
+Swaminathan, Kunchithapadam
+Mathews, Irimpan I
+Sollid, Ludvig M
+Kim, Chu-Young
+eng
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+J Biol Chem. 2012 Apr 20;287(17):13611-9. doi: 10.1074/jbc.M111.320374. Epub 2012 Feb 23.},
+   abstract = {MHC class II molecules are composed of one alpha-chain and one beta-chain whose membrane distal interface forms the peptide binding groove. Most of the existing knowledge on MHC class II molecules comes from the cis-encoded variants where the alpha- and beta-chain are encoded on the same chromosome. However, trans-encoded class II MHC molecules, where the alpha- and beta-chain are encoded on opposite chromosomes, can also be expressed. We have studied the trans-encoded class II HLA molecule DQ2.3 (DQA1*03:01/DQB1*02:01) that has received particular attention as it may explain the increased risk of certain individuals to type 1 diabetes. We report the x-ray crystal structure of this HLA molecule complexed with a gluten epitope at 3.05 A resolution. The gluten epitope, which is the only known HLA-DQ2.3-restricted epitope, is preferentially recognized in the context of the DQ2.3 molecule by T-cell clones of a DQ8/DQ2.5 heterozygous celiac disease patient. This preferential recognition can be explained by improved HLA binding as the epitope combines the peptide-binding motif of DQ2.5 (negative charge at P4) and DQ8 (negative charge at P1). The analysis of the structure of DQ2.3 together with all other available DQ crystal structures and sequences led us to categorize DQA1 and DQB1 genes into two groups where any alpha-chain and beta-chain belonging to the same group are expected to form a stable heterodimer.},
+   keywords = {Autoimmunity
+Celiac Disease/metabolism
+Cell Proliferation
+Crystallography, X-Ray/methods
+Diabetes Mellitus, Type 1/metabolism
+Dimerization
+Epitopes/chemistry
+Glutens/chemistry
+HLA-DQ Antigens/*chemistry
+HLA-DQ alpha-Chains/*chemistry
+HLA-DQ beta-Chains/*chemistry
+Humans
+Immune System
+Major Histocompatibility Complex
+Molecular Conformation
+Peptides/chemistry
+Protein Conformation
+T-Lymphocytes/immunology/metabolism},
+   ISSN = {1083-351X (Electronic)
+0021-9258 (Linking)},
+   DOI = {10.1074/jbc.M111.320374},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/22362761},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN2187,
+   author = {Tulaeva, I. and Kratzer, B. and Campana, R. and Curin, M. and van Hage, M. and Karsonova, A. and Riabova, K. and Karaulov, A. and Khaitov, M. and Pickl, W. F. and Valenta, R.},
+   title = {Preventive Allergen-Specific Vaccination Against Allergy: Mission Possible?},
+   journal = {Front Immunol},
+   volume = {11},
+   pages = {1368},
+   note = {Tulaeva, Inna
+Kratzer, Bernhard
+Campana, Raffaela
+Curin, Mirela
+van Hage, Marianne
+Karsonova, Antonina
+Riabova, Ksenja
+Karaulov, Alexander
+Khaitov, Musa
+Pickl, Winfried F
+Valenta, Rudolf
+eng
+Research Support, Non-U.S. Gov't
+Review
+Switzerland
+Front Immunol. 2020 Jul 7;11:1368. doi: 10.3389/fimmu.2020.01368. eCollection 2020.},
+   abstract = {Vaccines for infectious diseases have improved the life of the human species in a tremendous manner. The principle of vaccination is to establish de novo adaptive immune response consisting of antibody and T cell responses against pathogens which should defend the vaccinated person against future challenge with the culprit pathogen. The situation is completely different for immunoglobulin E (IgE)-associated allergy, an immunologically-mediated hypersensitivity which is already characterized by increased IgE antibody levels and T cell responses against per se innocuous antigens (i.e., allergens). Thus, allergic patients suffer from a deviated hyper-immunity against allergens leading to inflammation upon allergen contact. Paradoxically, vaccination with allergens, termed allergen-specific immunotherapy (AIT), induces a counter immune response based on the production of high levels of allergen-specific IgG antibodies and alterations of the adaptive cellular response, which reduce allergen-induced symptoms of allergic inflammation. AIT was even shown to prevent the progression of mild to severe forms of allergy. Consequently, AIT can be considered as a form of therapeutic vaccination. In this article we describe a strategy and possible road map for the use of an AIT approach for prophylactic vaccination against allergy which is based on new molecular allergy vaccines. This road map includes the use of AIT for secondary preventive vaccination to stop the progression of clinically silent allergic sensitization toward symptomatic allergy and ultimately the prevention of allergic sensitization by maternal vaccination and/or early primary preventive vaccination of children. Prophylactic allergy vaccination with molecular allergy vaccines may allow halting the allergy epidemics affecting almost 30% of the population as it has been achieved for vaccination against infectious diseases.},
+   keywords = {Allergens/administration & dosage/*immunology
+Animals
+Clinical Trials as Topic
+*Desensitization, Immunologic
+Epitopes, B-Lymphocyte/immunology
+Epitopes, T-Lymphocyte/immunology
+Female
+Humans
+Hypersensitivity/*prevention & control/*therapy
+Immunoglobulin E/immunology
+Peptides/immunology
+Pregnancy
+Primary Prevention
+Secondary Prevention
+Treatment Outcome
+*Vaccination/methods
+Vaccines/administration & dosage/*immunology
+Vaccines, Virus-Like Particle/administration & dosage/immunology
+*IgE
+*allergen
+*allergen-specific immunotherapy
+*allergy
+*molecular allergy vaccine
+*therapeutic vaccine
+*vaccination
+*vaccine},
+   ISSN = {1664-3224 (Electronic)
+1664-3224 (Linking)},
+   DOI = {10.3389/fimmu.2020.01368},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/32733455},
+   url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7358538/pdf/fimmu-11-01368.pdf},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN2229,
+   author = {Ueda, S. and Oryoji, D. and Yamamoto, K. and Noh, J. Y. and Okamura, K. and Noda, M. and Kashiwase, K. and Kosuga, Y. and Sekiya, K. and Inoue, K. and Yamada, H. and Oyamada, A. and Nishimura, Y. and Yoshikai, Y. and Ito, K. and Sasazuki, T.},
+   title = {Identification of independent susceptible and protective HLA alleles in Japanese autoimmune thyroid disease and their epistasis},
+   journal = {J Clin Endocrinol Metab},
+   volume = {99},
+   number = {2},
+   pages = {E379-83},
+   note = {Ueda, Sho
+Oryoji, Daisuke
+Yamamoto, Ken
+Noh, Jaeduk Yoshimura
+Okamura, Ken
+Noda, Mitsuhiko
+Kashiwase, Koichi
+Kosuga, Yuka
+Sekiya, Kenichi
+Inoue, Kaori
+Yamada, Hisakata
+Oyamada, Akiko
+Nishimura, Yasuharu
+Yoshikai, Yasunobu
+Ito, Koichi
+Sasazuki, Takehiko
+eng
+Research Support, Non-U.S. Gov't
+J Clin Endocrinol Metab. 2014 Feb;99(2):E379-83. doi: 10.1210/jc.2013-2841. Epub 2013 Nov 27.},
+   abstract = {BACKGROUND: Autoimmune thyroid disease (AITD) includes Graves disease (GD) and Hashimoto thyroiditis (HT), which partially share immunological features. Determining the genetic basis that distinguishes GD and HT is a key to understanding the differences between these 2 related diseases. AIM: The aims of this study were to identify HLA antigens that can explain the immunopathological difference between GD and HT and to elucidate epistatic interactions between protective and susceptible HLA alleles, which can delineate the distinct function of HLA in AITD etiology. DESIGN: We genotyped 991 patients with AITD (547 patients with GD and 444 patients with HT) and 481 control subjects at the HLA-A, HLA-C, HLA-B, DRB1, DQB1, and DPB1 loci. A direct comparison of HLA antigen frequencies between GD and HT was performed. We further analyzed an epistatic interaction between the susceptible and protective HLA alleles in the development of GD and HT. RESULTS: We identified 4 and 2 susceptible HLA molecules primarily associated with GD and HT, respectively, HLA-B*35:01, HLA-B*46:01, HLA-DRB1*14:03, and HLA-DPB1*05:01 for GD and HLA-A*02:07 and HLA-DRB4 for HT. In a direct comparison between GD and HT, we identified GD-specific susceptible class II molecules, HLA-DP5 (HLA-DPB1*05:01; Pc = 1.0 x 10(-9)) and HLA-DR14 (HLA-DRB*14:03; Pc = .0018). In contrast, HLA components on 3 common haplotypes in Japanese showed significant protective effects against the development of GD and HT (HLA-A*24:02-C*12:02-B*52:01-DRB1*15:02-DQB1*06:01-DPB1*09:01 and HLA-A*24:02-C*07:02-B*07:02-DRB1*01:01-DQB1*05:01-DPB1*04:02 haplotypes for GD and HLA-A*33:03-C*14:03-B*44:03-DRB1*13:02-DQB1*06:04-DPB1*04:01 haplotype for GD and HT). Interestingly, the representative protective HLA, HLA-DR13 (HLA-DRB1*13:02), was epistatic to susceptible HLA-DP5 in controlling the development of GD. CONCLUSION: We show that HLA exerts a dual function, susceptibility and resistance, in controlling the development of GD and HT. We also show that the protective HLA allele is partially epistatic to the susceptible HLA allele in GD.},
+   keywords = {Alleles
+Asians/genetics
+Diagnosis, Differential
+Gene Frequency
+Genetic Loci
+Genetic Predisposition to Disease
+Genotype
+HLA Antigens/*genetics
+Haplotypes
+Humans
+Japan
+Thyroiditis, Autoimmune/*diagnosis/genetics},
+   ISSN = {1945-7197 (Electronic)
+0021-972X (Linking)},
+   DOI = {10.1210/jc.2013-2841},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/24285682},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN2186,
+   author = {Valenta, R. and Karaulov, A. and Niederberger, V. and Gattinger, P. and van Hage, M. and Flicker, S. and Linhart, B. and Campana, R. and Focke-Tejkl, M. and Curin, M. and Eckl-Dorna, J. and Lupinek, C. and Resch-Marat, Y. and Vrtala, S. and Mittermann, I. and Garib, V. and Khaitov, M. and Valent, P. and Pickl, W. F.},
+   title = {Molecular Aspects of Allergens and Allergy},
+   journal = {Adv Immunol},
+   volume = {138},
+   pages = {195-256},
+   note = {Valenta, Rudolf
+Karaulov, Alexander
+Niederberger, Verena
+Gattinger, Pia
+van Hage, Marianne
+Flicker, Sabine
+Linhart, Birgit
+Campana, Raffaela
+Focke-Tejkl, Margarete
+Curin, Mirela
+Eckl-Dorna, Julia
+Lupinek, Christian
+Resch-Marat, Yvonne
+Vrtala, Susanne
+Mittermann, Irene
+Garib, Victoria
+Khaitov, Musa
+Valent, Peter
+Pickl, Winfried F
+eng
+F 4605/FWF_/Austrian Science Fund FWF/Austria
+P 29991/FWF_/Austrian Science Fund FWF/Austria
+Research Support, Non-U.S. Gov't
+Review
+Adv Immunol. 2018;138:195-256. doi: 10.1016/bs.ai.2018.03.002. Epub 2018 Apr 26.},
+   abstract = {Immunoglobulin E (IgE)-associated allergy is the most common immune disorder. More than 30% of the population suffer from symptoms of allergy which are often severe, disabling, and life threatening such as asthma and anaphylaxis. Population-based birth cohort studies show that up to 60% of the world population exhibit IgE sensitization to allergens, of which most are protein antigens. Thirty years ago the first allergen-encoding cDNAs have been isolated. In the meantime, the structures of most of the allergens relevant for disease in humans have been solved. Here we provide an update regarding what has been learned through the use of defined allergen molecules (i.e., molecular allergology) and about mechanisms of allergic disease in humans. We focus on new insights gained regarding the process of sensitization to allergens, allergen-specific secondary immune responses, and mechanisms underlying allergic inflammation and discuss open questions. We then show how molecular forms of diagnosis and specific immunotherapy are currently revolutionizing diagnosis and treatment of allergic patients and how allergen-specific approaches may be used for the preventive eradication of allergy.},
+   keywords = {Allergens/*immunology
+Animals
+Disease Models, Animal
+Humans
+Hypersensitivity/diagnosis/*immunology/prevention & control/therapy
+Immunoglobulin E/*immunology
+Immunotherapy/methods
+*Allergen
+*Allergy
+*Immunoglobulin E
+*Molecular allergology
+*Recombinant allergen},
+   ISSN = {1557-8445 (Electronic)
+0065-2776 (Linking)},
+   DOI = {10.1016/bs.ai.2018.03.002},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/29731005},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN2188,
+   author = {Vince, N. and Limou, S. and Daya, M. and Morii, W. and Rafaels, N. and Geffard, E. and Douillard, V. and Walencik, A. and Boorgula, M. P. and Chavan, S. and Vergara, C. and Ortega, V. E. and Wilson, J. G. and Lange, L. A. and Watson, H. and Nicolae, D. L. and Meyers, D. A. and Hansel, N. N. and Ford, J. G. and Faruque, M. U. and Bleecker, E. R. and Campbell, M. and Beaty, T. H. and Ruczinski, I. and Mathias, R. A. and Taub, M. A. and Ober, C. and Noguchi, E. and Barnes, K. C. and Torgerson, D. and Gourraud, P. A. and CAAPA},
+   title = {Association of HLA-DRB1∗09:01 with tIgE levels among African-ancestry individuals with asthma},
+   journal = {J Allergy Clin Immunol},
+   volume = {146},
+   number = {1},
+   pages = {147-155},
+   note = {Vince, Nicolas
+Limou, Sophie
+Daya, Michelle
+Morii, Wataru
+Rafaels, Nicholas
+Geffard, Estelle
+Douillard, Venceslas
+Walencik, Alexandre
+Boorgula, Meher Preethi
+Chavan, Sameer
+Vergara, Candelaria
+Ortega, Victor E
+Wilson, James G
+Lange, Leslie A
+Watson, Harold
+Nicolae, Dan L
+Meyers, Deborah A
+Hansel, Nadia N
+Ford, Jean G
+Faruque, Mezbah U
+Bleecker, Eugene R
+Campbell, Monica
+Beaty, Terri H
+Ruczinski, Ingo
+Mathias, Rasika A
+Taub, Margaret A
+Ober, Carole
+Noguchi, Emiko
+Barnes, Kathleen C
+Torgerson, Dara
+Gourraud, Pierre-Antoine
+2020/1/26},
+   abstract = {Asthma is a complex chronic inflammatory disease of the airways. Association studies between HLA and asthma were first reported in the 1970s, and yet, the precise role of HLA alleles in asthma is not fully understood. Numerous genome-wide association studies were recently conducted on asthma, but were always limited to simple genetic markers (single nucleotide polymorphisms) and not complex HLA gene polymorphisms (alleles/haplotypes), therefore not capturing the biological relevance of this complex locus for asthma pathogenesis.|To run the first HLA-centric association study with asthma and specific asthma-related phenotypes in a large cohort of African-ancestry individuals.|We collected high-density genomics data for the Consortium on Asthma among African-ancestry Populations in the Americas (N = 4993) participants. Using computer-intensive machine-learning attribute bagging methods to infer HLA alleles, and Easy-HLA to infer HLA 5-gene haplotypes, we conducted a high-throughput HLA-centric association study of asthma susceptibility and total serum IgE (tIgE) levels in subjects with and without asthma.|Among the 1607 individuals with asthma, 972 had available tIgE levels, with a mean tIgE level of 198.7 IU/mL. We could not identify any association with asthma susceptibility. However, we showed that HLA-DRB1∗09:01 was associated with increased tIgE levels (P = 8.5 × 10|We identified for the first time an HLA allele associated with tIgE levels in African-ancestry individuals with asthma. Our report emphasizes that by leveraging powerful computational machine-learning methods, specific/extreme phenotypes, and population diversity, we can explore HLA gene polymorphisms in depth and reveal the full extent of complex disease associations.},
+   keywords = {African Americans
+Alleles
+Asthma
+Female
+HLA-DRB1 Chains
+Humans
+Immunoglobulin E
+Male
+Polymorphism, Single Nucleotide
+Asthma
+CAAPA
+HLA
+admixture
+atopy
+imputation
+tIgE levels},
+   ISSN = {1097-6825},
+   DOI = {10.1016/j.jaci.2020.01.011},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/31981624},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN2167,
+   author = {Weiskopf, D. and Angelo, M. A. and Grifoni, A. and O'Rourke, P. H. and Sidney, J. and Paul, S. and De Silva, A. D. and Phillips, E. and Mallal, S. and Premawansa, S. and Premawansa, G. and Wijewickrama, A. and Peters, B. and Sette, A.},
+   title = {HLA-DRB1 Alleles Are Associated With Different Magnitudes of Dengue Virus-Specific CD4+ T-Cell Responses},
+   journal = {J Infect Dis},
+   volume = {214},
+   number = {7},
+   pages = {1117-24},
+   note = {Weiskopf, Daniela
+Angelo, Michael A
+Grifoni, Alba
+O'Rourke, Patrick H
+Sidney, John
+Paul, Sinu
+De Silva, Aruna D
+Phillips, Elizabeth
+Mallal, Simon
+Premawansa, Sunil
+Premawansa, Gayani
+Wijewickrama, Ananda
+Peters, Bjoern
+Sette, Alessandro
+2016/7/23},
+   abstract = {Each year dengue virus (DENV) infects 400 million human but causes symptomatic disease in only a subset of patients, suggesting that host genetic factors may play a role. HLA molecules that restrict T-cell responses are one of the most polymorphic host factors in humans.|Here we map HLA DRB1-restricted DENV-specific epitopes in individuals previously exposed to DENV, to identify the breadth and specificity of CD4(+) T-cell responses. To investigate whether HLA-specific variations in the magnitude of response might predict associations between dengue outcomes and HLA-DRB1 alleles, we assembled samples from hospitalized patients with known severity of disease.|The capsid protein followed by nonstructural protein 3 (NS3), NS2A, and NS5 were the most targeted proteins. We further noticed a wide variation in magnitude of T-cell responses as a function of the restricting DRB1 allele and found several HLA alleles that showed trends toward a lower risk of hospitalized disease were associated with a higher magnitude of T-cell responses.|Comprehensive identification of unique CD4(+) T-cell epitopes across the 4 DENV serotypes allows the testing of T-cell responses by use of a simple, approachable technique and points to important implications for vaccine design.},
+   keywords = {Adult
+CD4-Positive T-Lymphocytes
+Dengue
+Dengue Virus
+Epitopes, T-Lymphocyte
+HLA-DRB1 Chains
+Humans
+CD4+ T cells
+Dengue virus
+HLA
+disease association},
+   ISSN = {1537-6613},
+   DOI = {10.1093/infdis/jiw309},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27443615},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN2240,
+   author = {Wennink, R. A. W. and de Boer, J. H. and Hiddingh, S. and Haasnoot, A. J. W. and Kalinina Ayuso, V. and de Hoop, T. and van Setten, J. and Spierings, E. and Kuiper, J. J. W.},
+   title = {Next-Generation HLA Sequence Analysis Uncovers Shared Risk Alleles Between Clinically Distinct Forms of Childhood Uveitis},
+   journal = {Invest Ophthalmol Vis Sci},
+   volume = {62},
+   number = {9},
+   pages = {19},
+   note = {Wennink, Roos A W
+de Boer, Joke H
+Hiddingh, Sanne
+Haasnoot, Anne-Mieke J W
+Kalinina Ayuso, Viera
+de Hoop, Talitha
+van Setten, Jessica
+Spierings, Eric
+Kuiper, Jonas J W
+eng
+Research Support, Non-U.S. Gov't
+Invest Ophthalmol Vis Sci. 2021 Jul 1;62(9):19. doi: 10.1167/iovs.62.9.19.},
+   abstract = {Purpose: Classical alleles of the human leukocyte antigen (HLA) complex have been linked to specific entities of pediatric noninfectious uveitis, yet genetic predisposition encoded by the HLA super-locus across the patient population remains understudied. Methods: We performed next-generation full-length sequencing of HLA-A, HLA-B, HLA-C, HLA-DPB1, HLA-DQB1, and HLA-DRB1 in 280 cases. Dense genotype data from 499 Dutch controls from Genome of the Netherlands were imputed using an HLA-specific reference panel (n = 5225 samples from European ancestry). Cases and controls were compared using logistic regression models adjusting for sex. Results: In total, 179 common and rare alleles were detected. Considering all cases and controls, HLA-DQB1*04:02 and HLA-DRB1*08:01 were identified as the principal HLA association, which was mainly driven by 92 cases with juvenile idiopathic arthritis-associated uveitis (JIA-U). The HLA-DQB1*04:02-HLA-DRB1*08:01 haplotype was also the primary association for the phenotypically similar idiopathic chronic anterior uveitis without arthritis (CAU). Also, HLA-DQB1*05:03 was an independent risk allele for CAU, but not in JIA-U. Analysis of 185 cases with other forms of uveitis revealed HLA-wide associations (P < 2.79 x 10-4) for HLA-DRB1*01:02, HLA-DRB1*04:03, and HLA-DQB1*05:03, which could be primarily attributed to cases with panuveitis. Finally, amino acid substitution modeling revealed that aspartic acid at position 57 that distinguishes the risk allele HLA-DQB1*05:03 (for CAU and panuveitis) from nonrisk alleles, significantly increased the binding capacity of naturally presented ligands to HLA-DQ. Conclusions: These results uncovered novel shared HLA associations among clinically distinct phenotypes of pediatric uveitis and highlight genetic predisposition affecting the antigen presentation pathway.},
+   keywords = {Adolescent
+Alleles
+Child
+Female
+Gene Frequency
+*Genetic Predisposition to Disease
+Genotype
+HLA Antigens/*genetics/metabolism
+Haplotypes
+Humans
+Male
+Phenotype
+Sequence Analysis
+Uveitis/*genetics/metabolism},
+   ISSN = {1552-5783 (Electronic)
+0146-0404 (Linking)},
+   DOI = {10.1167/iovs.62.9.19},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/34254975},
+   url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8287043/pdf/iovs-62-9-19.pdf},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN2172,
+   author = {Yan, Q. and Forno, E. and Herrera-Luis, E. and Pino-Yanes, M. and Yang, G. and Oh, S. and Acosta-Pérez, E. and Hu, D. and Eng, C. and Huntsman, S. and Rodriguez-Santana, J. R. and Cloutier, M. M. and Canino, G. and Burchard, E. G. and Chen, W. and Celedón, J. C.},
+   title = {A genome-wide association study of asthma hospitalizations in adults},
+   journal = {J Allergy Clin Immunol},
+   volume = {147},
+   number = {3},
+   pages = {933-940},
+   note = {Yan, Qi
+Forno, Erick
+Herrera-Luis, Esther
+Pino-Yanes, Maria
+Yang, Ge
+Oh, Sam
+Acosta-Pérez, Edna
+Hu, Donglei
+Eng, Celeste
+Huntsman, Scott
+Rodriguez-Santana, José R
+Cloutier, Michelle M
+Canino, Glorisa
+Burchard, Esteban G
+Chen, Wei
+Celedón, Juan C
+2020/9/6},
+   abstract = {Little is known about the genetic determinants of severe asthma exacerbations.|We aimed to identify genetic variants associated with asthma hospitalizations.|We conducted a genome-wide association study of asthma hospitalizations in 34,167 white British adults with asthma, 1,658 of whom had at least 1 asthma-related hospitalization. This analysis was conducted by using logistic regression under an additive genetic model with adjustment for age, sex, body mass index, smoking status, and the first 5 principal components derived from genotypic data. We then analyzed data from 2 cohorts of Latino children and adolescents for replication and conducted quantitative trait locus and functional annotation analyses.|At the chromosome 6p21.3 locus, the single-nucleotide polymorphism (SNP) rs56151658 (8 kb from the promoter of HLA-DQB1) was most significantly associated with asthma hospitalizations (for test allele A, odds ratio = 1.36 [95% CI = 1.22-1.52]; P = 3.11 × 10|We identified strong candidate genes for asthma hospitalizations in adults in the region for class II HLA genes through genomic, quantitative trait locus, and summary data-based mendelian randomization analyses.},
+   keywords = {Adult
+Asthma
+Cohort Studies
+Female
+Gene Frequency
+Genetic Predisposition to Disease
+Genome-Wide Association Study
+Genotype
+HLA-D Antigens
+HLA-DQ Antigens
+HLA-DQ beta-Chains
+HLA-DR beta-Chains
+Hospitalization
+Humans
+Male
+Middle Aged
+Polymorphism, Single Nucleotide
+Promoter Regions, Genetic
+United Kingdom
+HLA-II genes
+adults
+asthma
+hospitalizations},
+   ISSN = {1097-6825},
+   DOI = {10.1016/j.jaci.2020.08.020},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/32890573},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN2166,
+   author = {Yao, Y. and Zhu, L. and Li, J. and Jin, Y. and He, L.},
+   title = {Association of HLA-DRB1 Gene Polymorphism with Risk of Asthma: A Meta-Analysis},
+   journal = {Med Sci Monit Basic Res},
+   volume = {22},
+   pages = {80-6},
+   note = {Yao, Yingshui
+Zhu, Lijun
+Li, Jie
+Jin, Yuelong
+He, Lianping
+2016/8/10},
+   abstract = {BACKGROUND The relationship between HLA-DRB1 alleles and asthma is controversial. The purpose of this study was to evaluate the relationship between HLA-DRB1 alleles and risk of asthma. MATERIAL AND METHODS We searched PubMed, Chinese National Knowledge Infrastructure (CNKI), Wan Fang (Chinese) database, and Chinese Biomedical Medical databases (CBM) to find studies on the relationship between HLA-DRB1 alleles and risk of asthma. We calculated the pooled odds ratio (OR) and 95% confidence interval (CI) using STATA 12.0. Finally, a total of 24 studies were included in this meta-analysis. RESULTS The results revealed that DRB1*03 was positively associated with risk of asthma (OR=1.51, 95%CI=1.27-1.80), and DRB1*15 was negatively associated with risk of asthma (OR=0.63, 95%CI=0.42-0.93), but no association was found in other HLA-DRB1 alleles. Subgroup analysis by age revealed that DRB1*03, DRB1*04, DRB1*09, and DRB1*15 were associated with asthma in children. Subgroup analysis by ethnicity showed that DRB1*03 and DRB1*15 were associated with asthma in whites, and DRB1*07 and DRB1*14 were associated with asthma in Asians. CONCLUSIONS This results of this meta-analysis suggest that HLA-DRB1 alleles are associated with asthma.},
+   keywords = {Alleles
+Asthma
+Female
+Genetic Association Studies
+Genetic Predisposition to Disease
+HLA-DRB1 Chains
+Humans
+Male
+Polymorphism, Genetic
+Anti-Asthmatic Agents
+HLA Antigens
+Polymorphism, Single Nucleotide
+meta-analysis},
+   ISSN = {2325-4416},
+   DOI = {10.12659/MSMBR.900193},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27503745},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN2231,
+   author = {Yasunami, M. and Nakamura, H. and Tokunaga, K. and Kawashima, M. and Nishida, N. and Hitomi, Y. and Nakamura, M.},
+   title = {Principal contribution of HLA-DQ alleles, DQB1*06:04 and DQB1*03:01, to disease resistance against primary biliary cholangitis in a Japanese population},
+   journal = {Sci Rep},
+   volume = {7},
+   number = {1},
+   pages = {11093},
+   note = {Yasunami, Michio
+Nakamura, Hitomi
+Tokunaga, Katsushi
+Kawashima, Minae
+Nishida, Nao
+Hitomi, Yuki
+Nakamura, Minoru
+eng
+Research Support, Non-U.S. Gov't
+England
+Sci Rep. 2017 Sep 11;7(1):11093. doi: 10.1038/s41598-017-11148-6.},
+   abstract = {Identification of the primary allele(s) in HLA class II associated diseases remains challenging because of a tight linkage between alleles of HLA-DR and -DQ loci. In the present study, we determined the genotypes of seven HLA loci (HLA-A, -B, -DRB1, -DQA1, -DQB1, -DPA1 and -DPB1) for 1200 Japanese patients with primary biliary cholangitis and 1196 controls. Observation of recombination derivatives facilitated an evaluation of the effects of individual HLA alleles consisting of disease-prone/disease-resistant HLA haplotypes. Consequently, a primary contribution of DQB1*06:04 (odds ratio: 0.19, p = 1.91 x 10(-22)), DQB1*03:01 (odds ratio: 0.50, p = 6.76 x 10(-10)), DRB1*08:03 (odds ratio: 1.75, p = 1.01 x 10(-7)) and DQB1*04:01 (odds ratio: 1.50, p = 9.20 x 10(-6)) was suggested. Epistasis of the protective DQB1*06:04 to risk conferred by DRB1*08:03 was demonstrated by subpopulation analysis, implicating the presence of an active immunological mechanism that alleviates pathogenic autoimmune reactions. Further, the contribution of the aforementioned HLA alleles as well as an HLA-DP allele, DPB1*02:01 to the association signals of 304 loci among 4103 SNPs in the HLA region at the genome-wide level of significance (p values less than 5 x 10(-8)) was demonstrated by the stepwise exclusion of the individuals possessing these HLA alleles from the comparison.},
+   keywords = {Aged
+*Alleles
+Case-Control Studies
+Cholangitis/diagnosis/*epidemiology/*genetics
+Comorbidity
+*Disease Resistance
+Female
+Gene Frequency
+*Genetic Association Studies
+*Genetic Predisposition to Disease
+Genotype
+HLA-DQ beta-Chains/*genetics
+Haplotypes
+Humans
+Japan
+Linkage Disequilibrium
+Male
+Middle Aged
+Patient Outcome Assessment
+Polymorphism, Single Nucleotide
+Risk Assessment
+Severity of Illness Index},
+   ISSN = {2045-2322 (Electronic)
+2045-2322 (Linking)},
+   DOI = {10.1038/s41598-017-11148-6},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/28894202},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN2185,
+   author = {Young, R. P. and Dekker, J. W. and Wordsworth, B. P. and Schou, C. and Pile, K. D. and Matthiesen, F. and Rosenberg, W. M. and Bell, J. I. and Hopkin, J. M. and Cookson, W. O.},
+   title = {HLA-DR and HLA-DP genotypes and immunoglobulin E responses to common major allergens},
+   journal = {Clin Exp Allergy},
+   volume = {24},
+   number = {5},
+   pages = {431-9},
+   note = {Young, R P
+Dekker, J W
+Wordsworth, B P
+Schou, C
+Pile, K D
+Matthiesen, F
+Rosenberg, W M
+Bell, J I
+Hopkin, J M
+Cookson, W O
+eng
+Wellcome Trust/United Kingdom
+Research Support, Non-U.S. Gov't
+England
+Clin Exp Allergy. 1994 May;24(5):431-9. doi: 10.1111/j.1365-2222.1994.tb00931.x.},
+   abstract = {In order to test for human histocompatibility leucocyte antigens (HLA) class II restriction of IgE responses, 431 subjects from 83 families were genotyped at the HLA-DR and HLA-DP loci and serotyped for IgE responses to six major allergens from common aero-allergen sources. A possible excess of HLA-DR1 was found in subjects who were responsive to Fel d I compared with those who were not (Odds Ratio (OR) = 2, P = 0.002), and a possible excess of HLA-DR4 was found in subjects responsive to Alt a I (OR = 1.9, P = 0.006). Increased sharing of HLA-DR/DP haplotypes was seen in sibling pairs responding to both allergens. Der p I, Der p II, Phl p V and Can f I were not associated with any definite excess of HLA-DR alleles. No significant correlations were seen with HLA-DP genotype and reactivity to any of the allergens. The results suggest class II HLA restriction is insufficient to account for individual differences in reactivity to common allergens.},
+   keywords = {Alleles
+Allergens/*immunology
+Gene Frequency
+Genetic Linkage
+Genotype
+HLA-DP Antigens/*genetics/immunology
+HLA-DR Antigens/*genetics/immunology
+Humans
+Hypersensitivity/*immunology
+Immunoglobulin E/*immunology
+Polymerase Chain Reaction},
+   ISSN = {0954-7894 (Print)
+0954-7894 (Linking)},
+   DOI = {10.1111/j.1365-2222.1994.tb00931.x},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/8087654},
+   year = {1994},
+   type = {Journal Article}
+}
+
+@article{RN2179,
+   author = {Zahraldin, K. and Chandra, P. and Tuffaha, A. and Ehlayel, M.},
+   title = {Sensitization to Common Allergens Among Children with Asthma and Allergic Rhinitis in Qatar},
+   journal = {J Asthma Allergy},
+   volume = {14},
+   pages = {287-292},
+   note = {Zahraldin, Khalid
+Chandra, Prem
+Tuffaha, Amjad
+Ehlayel, Mohammad
+eng
+New Zealand
+J Asthma Allergy. 2021 Mar 29;14:287-292. doi: 10.2147/JAA.S295228. eCollection 2021.},
+   abstract = {Background: Childhood asthma (A) and allergic rhinitis (AR) are common in Qatar. Aeroallergens sensitization is integral in disease pathogenesis and clinical presentation. Determining sensitization patterns assists clinicians in tailoring an efficient medical management. Objective: To determine the aeroallergen sensitization pattern and relationship to clinical parameters. Methods: A retrospective review of children (2-14-years) files with i) Pediatric Allergist/or Pulmonologist confirmed-diagnosis of A, and AR, and ii) positive skin prick test (SPT). Results: Among 473 patients (69.1% males; 30.9% females), aged 7.6 years, family history was positive in 66.3%: 59.4% in A, 64.2% AR, and 78.2% A-AR. The number of allergens/patients was 2.1+/-1.7. Median eosinophil count was 400 cells/ul and IgE 287 KU/L. Rates of A, AR, and A-AR varied significantly in children </=5 years compared to >10 years: A was 43.2% vs 17.8%, and AR 34.5% vs 16.4%. Two hundred and four children (43.1%) were mono-sensitized, 215 (45.5%) oligosensitized (2-3 allergens), and 54 (11.4%) polysensitized (>/=4 allergens). A-AR ranked the top number of positive allergens. The commonest aeroallergen was Der p1 (38.1%), followed by Der f (29.0%), cat (22.6%), alternaria (18.8%), American cockroach (18.4%), and dog (14.0%). House dust mite (HDM) and American cockroach were commoner in </=5 years than older >10-year children (52.5%, 24.1%), while cat and dog allergens were commoner in older ones (37.1%, 21.6%). Conclusion: Family history is quite positive in patients with A and AR. Common aeroallergens include HDM, cats, and alternaria in the young children, while animal allergens were commoner in the older children.},
+   keywords = {allergic rhinitis
+asthma
+children
+skin prick test},
+   ISSN = {1178-6965 (Print)
+1178-6965 (Linking)},
+   DOI = {10.2147/JAA.S295228},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/33824594},
+   url = {https://www.dovepress.com/getfile.php?fileID=68062},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN2160,
+   author = {Zhao, Y. and Zhao, Y. and Li, J. and Zhang, Y. and Zhang, L.},
+   title = {HLA-DRB1*08:03:02 and HLA-DQB1*06:01:01 are associated with house dust mite-sensitive allergic rhinitis in Chinese subjects},
+   journal = {Int Forum Allergy Rhinol},
+   volume = {6},
+   number = {8},
+   pages = {854-61},
+   note = {Zhao, Yanming
+Zhao, Yali
+Li, Jingyun
+Zhang, Yuan
+Zhang, Luo
+eng
+Research Support, Non-U.S. Gov't
+Int Forum Allergy Rhinol. 2016 Aug;6(8):854-61. doi: 10.1002/alr.21747. Epub 2016 Mar 25.},
+   abstract = {BACKGROUND: Allergic rhinitis (AR) is a multifactorial immunologic disease that is influenced by both genetic and environment factors. House dust mites (HDMs) are important inhalant aeroallergens and are an epidemiologic risk factor for AR. Similarly, the human leukocyte antigen (HLA) class II genes DQB1 and DRB1 have been shown to be associated with AR and play an important role in the regulation of the immune response. The objective of this work was to elucidate the HLA-II gene alleles associated with AR in HDM-sensitive Han Chinese subjects. METHODS: A total of 142 patients with AR and 184 healthy subjects were recruited to this case-control study. Diagnosis of AR was based on medical history, laryngological examination, skin-prick tests, and HMD-specific immunoglobulin E (IgE) assays. Genotyping of HLA-DRB1 and HAL-DQB1 was performed by the polymerase chain reaction sequence-based genotyping method. RESULTS: A total of 35 alleles of the HLA-DRB1 locus and 19 alleles of the HLA-DQB1 locus were genotyped in the entire study cohort; the frequencies of alleles DQB1*06:01:01 (corrected p value [pc ] = 0.009; odds ratio [OR] = 2.684; 95% confidence interval [CI] = 1.482 to 4.994) and DRB1*08:03:02 (pc = 0.009; OR = 3.754; 95% CI = 1.724 to 8.851) were significantly increased in HDM-sensitive AR patients compared to healthy controls and are considered to be a risk factor for AR in Chinese Han subjects. The frequency of haplotype DRB1*08:03-DQB1*06:01 in the HDM-sensitive AR group was also significantly higher than in the control group (9.5% vs 2.4%; pc = 0.005; OR = 4.182; 95% CI = 1.870 to 10.285). Serological antigen types assessment further demonstrated the frequency of HLA-DRB1*08 (pc = 0.022; OR = 2.982; 95% CI = 1.46 to 6.400) to be significantly increased in HDM-sensitive AR patients, and the frequencies of DRB1*14 (pc = 0.030; OR = 0.340; 95% CI = 0.154 to 0.694) and DQB1*05 (pc = 0.030; OR = 0.459; 95% CI = 0.269 to 0.764) to be significantly decreased, compared to healthy controls, suggesting that HLA-DRB1*08 might be a risk factor, and DRB1*14 and DQB1*05 protective factors for HDM-sensitive AR. CONCLUSION: HLA-DRB1*08:03:02 and HLA-DQB1*06:01:01 are associated with HMD-sensitive AR and may confer a risk for development of AR in Han Chinese subjects sensitized to HDM.},
+   keywords = {Adolescent
+Adult
+Alleles
+Allergens/immunology
+Animals
+Antigens, Dermatophagoides/immunology
+Arthropod Proteins/immunology
+Asian Continental Ancestry Group/genetics
+Case-Control Studies
+Child
+Female
+*Genetic Predisposition to Disease
+HLA-DQ beta-Chains/*genetics
+HLA-DRB1 Chains/*genetics
+Humans
+Immunoglobulin E/blood/immunology
+Male
+Pyroglyphidae/immunology
+Rhinitis, Allergic/blood/diagnosis/*genetics/immunology
+Skin Tests
+Young Adult
+*Allergic rhinitis
+*dqb1
+*drb1
+*House dust mites (HDMs)
+*Human leukocyte antigen (HLA)},
+   ISSN = {2042-6984 (Electronic)
+2042-6976 (Linking)},
+   DOI = {10.1002/alr.21747},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27013183},
+   url = {https://onlinelibrary.wiley.com/doi/10.1002/alr.21747},
+   year = {2016},
+   type = {Journal Article}
+}
+

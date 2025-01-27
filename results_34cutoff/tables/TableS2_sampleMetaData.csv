@@ -1,0 +1,15 @@
+,,Age,Age,Age,Age,Age,fx1,fx2,fx22,fx5,gx2,phad,t20,wx1
+,,count,median,min,max,std,sum,sum,sum,sum,sum,sum,sum,sum
+Ethnicity,Gender,,,,,,,,,,,,,
+Bahrain,Female,2,35.5,35,36,0.7071067811865476,0,0,0,0,0,1,1,1
+Bahrain,Male,1,57.0,57,57,,1,1,1,1,1,1,1,1
+Jordan,Female,1,40.0,40,40,,0,0,0,0,0,1,0,0
+Jordan,Male,1,43.0,43,43,,0,0,0,0,0,0,0,0
+Kuwait,Female,1,24.0,24,24,,0,0,0,0,0,0,0,0
+Morocco,Female,1,46.0,46,46,,0,0,0,1,0,0,0,0
+Qatari,Female,500,40.0,19,81,12.936847376392757,18,86,28,53,51,208,42,115
+Qatari,Male,280,40.0,19,81,13.008984547436937,10,64,22,29,39,142,28,82
+Saudi Arabia,Female,3,37.0,19,60,20.55075018906447,0,0,0,0,0,1,0,0
+Syrian Arab Republic (Syria),Male,3,44.0,42,46,2.0,0,0,0,0,1,1,0,0
+Yemen Arab Republic,Female,3,32.0,28,33,2.6457513110645907,0,0,0,0,0,3,0,1
+Yemen Arab Republic,Male,1,23.0,23,23,,0,0,0,0,0,0,0,0

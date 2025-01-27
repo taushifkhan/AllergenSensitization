@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "layer": [{"mark": "errorbar", "encoding": {"shape": {"type": "nominal", "field": "aType", "legend": {"title": "Significance Associaition"}, "scale": {"domain": ["BothTyping", "OneTyping"], "range": ["circle", "square"]}}, "x": {"type": "quantitative", "axis": {"title": ""}, "field": "lCI"}, "x2": {"field": "mCI"}, "y": {"type": "nominal", "axis": {"labelFontSize": 14, "title": ""}, "field": "allele", "sort": ["DRB1*11:04", "DPB1*10:01", "DPB1*09:01", "DRB1*13:03", "DRB1*16:01", "DRB1*13:01", "DRB1*01:02"]}}, "height": 150, "width": 300}, {"mark": {"type": "point", "color": "black", "filled": true, "size": 90}, "encoding": {"shape": {"type": "nominal", "field": "aType", "legend": {"title": "Significance Associaition"}, "scale": {"domain": ["BothTyping", "OneTyping"], "range": ["circle", "square"]}}, "x": {"type": "quantitative", "axis": {"title": "Coefficient of association (\u03b2) [CI]", "titleFontSize": 14}, "field": "coef_mean"}, "y": {"type": "nominal", "field": "allele", "sort": ["DRB1*11:04", "DPB1*10:01", "DPB1*09:01", "DRB1*13:03", "DRB1*16:01", "DRB1*13:01", "DRB1*01:02"]}}, "height": 150, "width": 300}], "data": {"name": "data-988e7501a2b12269a7abc63c40eb5e7d"}, "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-988e7501a2b12269a7abc63c40eb5e7d": [{"allele": "DRB1*11:04", "coef_mean": -11.878675000000001, "lCI": -13.79375, "mCI": -9.95925, "aType": "BothTyping"}, {"allele": "DPB1*10:01", "coef_mean": -3.654375, "lCI": -4.67775, "mCI": -2.6317500000000003, "aType": "BothTyping"}, {"allele": "DPB1*09:01", "coef_mean": -3.11165, "lCI": -4.074999999999999, "mCI": -2.1494999999999997, "aType": "BothTyping"}, {"allele": "DRB1*13:03", "coef_mean": -3.07245, "lCI": -4.0235, "mCI": -2.1262499999999998, "aType": "BothTyping"}, {"allele": "DRB1*16:01", "coef_mean": -2.98205, "lCI": -3.9045, "mCI": -2.0715, "aType": "OneTyping"}, {"allele": "DRB1*13:01", "coef_mean": 3.0133, "lCI": 2.11575, "mCI": 3.9117499999999996, "aType": "BothTyping"}, {"allele": "DRB1*01:02", "coef_mean": 3.70025, "lCI": 2.82275, "mCI": 4.5825, "aType": "BothTyping"}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
